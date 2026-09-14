@@ -1,0 +1,1001 @@
+CustomerID,CustomerName,Gender,Age,City,State,Region,CustomerSegment
+CUST0001,Meera Arora,Male,25,Jaipur,Rajasthan,West,Silver
+CUST0002,Pooja Kapoor,Male,41,Jaipur,Rajasthan,West,Standard
+CUST0003,Aditya Malhotra,Male,41,Pune,Maharashtra,West,Gold
+CUST0004,Vivaan Sethi,Male,29,Ahmedabad,Gujarat,West,Silver
+CUST0005,Diya Chopra,Male,59,Kolkata,West Bengal,East,Standard
+CUST0006,Sneha Saini,Male,64,Kochi,Kerala,South,Silver
+CUST0007,Meera Chopra,Male,24,Kochi,Kerala,South,Standard
+CUST0008,Kavya Verma,Female,31,Jaipur,Rajasthan,West,Gold
+CUST0009,Vivaan Verma,Male,24,Bengaluru,Karnataka,South,Silver
+CUST0010,Neha Singh,Female,53,Pune,Maharashtra,West,Standard
+CUST0011,Vivaan Khanna,Male,59,New Delhi,Delhi,North,Silver
+CUST0012,Kavya Mehta,Male,27,Kolkata,West Bengal,East,Gold
+CUST0013,Sneha Saini,Male,40,Bhubaneswar,Odisha,East,Silver
+CUST0014,Vikram Gupta,Male,35,Bhubaneswar,Odisha,East,Silver
+CUST0015,Isha Chopra,Male,62,Pune,Maharashtra,West,Standard
+CUST0016,Amit Bansal,Male,25,Jaipur,Rajasthan,West,Standard
+CUST0017,Pooja Sharma,Female,52,Chennai,Tamil Nadu,South,Gold
+CUST0018,Nikhil Kapoor,Female,45,Mumbai,Maharashtra,West,Gold
+CUST0019,Diya Kumar,Male,40,Pune,Maharashtra,West,Silver
+CUST0020,Aditya Sethi,Female,44,Mumbai,Maharashtra,West,Silver
+CUST0021,Rahul Saini,Female,18,Gurugram,Haryana,North,Silver
+CUST0022,Priya Kapoor,Male,32,Jaipur,Rajasthan,West,Standard
+CUST0023,Isha Singh,Male,56,Hyderabad,Telangana,South,Silver
+CUST0024,Arjun Khanna,Male,56,Kolkata,West Bengal,East,Standard
+CUST0025,Arjun Arora,Male,39,Chennai,Tamil Nadu,South,Gold
+CUST0026,Isha Khanna,Female,23,Hyderabad,Telangana,South,Silver
+CUST0027,Diya Verma,Female,28,Kochi,Kerala,South,Standard
+CUST0028,Karan Khanna,Male,44,Jaipur,Rajasthan,West,Standard
+CUST0029,Isha Chopra,Male,23,New Delhi,Delhi,North,Silver
+CUST0030,Rahul Sharma,Male,61,Bengaluru,Karnataka,South,Standard
+CUST0031,Amit Verma,Male,29,Chennai,Tamil Nadu,South,Standard
+CUST0032,Aditya Sharma,Male,34,Amritsar,Punjab,North,Standard
+CUST0033,Vivaan Sethi,Male,54,Amritsar,Punjab,North,Standard
+CUST0034,Pooja Khanna,Male,61,Ludhiana,Punjab,North,Standard
+CUST0035,Arjun Kapoor,Female,34,Ahmedabad,Gujarat,West,Silver
+CUST0036,Rahul Verma,Female,39,Pune,Maharashtra,West,Silver
+CUST0037,Sneha Sharma,Male,23,Ranchi,Jharkhand,East,Silver
+CUST0038,Meera Sethi,Female,36,Gurugram,Haryana,North,Silver
+CUST0039,Pooja Verma,Female,58,Patna,Bihar,East,Silver
+CUST0040,Karan Kumar,Female,28,Ranchi,Jharkhand,East,Standard
+CUST0041,Kavya Kapoor,Male,59,Bengaluru,Karnataka,South,Standard
+CUST0042,Sneha Mehta,Female,19,Kochi,Kerala,South,Premium
+CUST0043,Diya Gupta,Female,26,Bhubaneswar,Odisha,East,Standard
+CUST0044,Sneha Singh,Female,50,Gurugram,Haryana,North,Silver
+CUST0045,Riya Bansal,Female,57,Chennai,Tamil Nadu,South,Silver
+CUST0046,Sneha Khanna,Female,42,Gurugram,Haryana,North,Standard
+CUST0047,Priya Kumar,Male,52,Ranchi,Jharkhand,East,Silver
+CUST0048,Arjun Sharma,Male,31,Bengaluru,Karnataka,South,Standard
+CUST0049,Vikram Kapoor,Female,50,New Delhi,Delhi,North,Silver
+CUST0050,Pooja Malhotra,Male,63,Chennai,Tamil Nadu,South,Silver
+CUST0051,Isha Singh,Female,44,Ahmedabad,Gujarat,West,Standard
+CUST0052,Aarav Sethi,Female,50,Mumbai,Maharashtra,West,Standard
+CUST0053,Sneha Singh,Female,34,Kolkata,West Bengal,East,Premium
+CUST0054,Priya Gupta,Female,58,Bhubaneswar,Odisha,East,Premium
+CUST0055,Riya Khanna,Female,52,Kolkata,West Bengal,East,Premium
+CUST0056,Aarav Singh,Male,42,New Delhi,Delhi,North,Standard
+CUST0057,Aditya Bansal,Male,49,Ahmedabad,Gujarat,West,Silver
+CUST0058,Vivaan Saini,Male,19,Jaipur,Rajasthan,West,Standard
+CUST0059,Aarav Chopra,Female,65,Pune,Maharashtra,West,Silver
+CUST0060,Aditya Kumar,Female,30,Hyderabad,Telangana,South,Standard
+CUST0061,Arjun Arora,Male,25,Jaipur,Rajasthan,West,Silver
+CUST0062,Priya Sethi,Female,32,Ranchi,Jharkhand,East,Standard
+CUST0063,Pooja Chopra,Male,39,Amritsar,Punjab,North,Silver
+CUST0064,Riya Verma,Male,32,Ahmedabad,Gujarat,West,Standard
+CUST0065,Rahul Sharma,Female,61,Kochi,Kerala,South,Premium
+CUST0066,Arjun Malhotra,Male,47,Jaipur,Rajasthan,West,Silver
+CUST0067,Vikram Verma,Male,59,Jaipur,Rajasthan,West,Standard
+CUST0068,Pooja Sethi,Female,43,Ludhiana,Punjab,North,Standard
+CUST0069,Amit Sethi,Male,18,Mumbai,Maharashtra,West,Standard
+CUST0070,Sneha Chopra,Female,18,Ranchi,Jharkhand,East,Premium
+CUST0071,Rahul Malhotra,Female,20,Jaipur,Rajasthan,West,Standard
+CUST0072,Pooja Gupta,Male,46,Ranchi,Jharkhand,East,Standard
+CUST0073,Neha Sharma,Male,22,Mumbai,Maharashtra,West,Silver
+CUST0074,Sneha Gupta,Male,50,Hyderabad,Telangana,South,Silver
+CUST0075,Nikhil Malhotra,Female,51,Mumbai,Maharashtra,West,Standard
+CUST0076,Pooja Mehta,Male,22,Hyderabad,Telangana,South,Silver
+CUST0077,Sneha Kapoor,Female,45,Ranchi,Jharkhand,East,Silver
+CUST0078,Meera Bansal,Female,52,Chennai,Tamil Nadu,South,Silver
+CUST0079,Pooja Joshi,Female,20,Ludhiana,Punjab,North,Gold
+CUST0080,Nikhil Joshi,Male,30,Pune,Maharashtra,West,Standard
+CUST0081,Vivaan Arora,Male,52,Bhubaneswar,Odisha,East,Standard
+CUST0082,Vikram Arora,Female,43,Hyderabad,Telangana,South,Standard
+CUST0083,Amit Kapoor,Male,62,Gurugram,Haryana,North,Premium
+CUST0084,Arjun Chopra,Female,53,Pune,Maharashtra,West,Standard
+CUST0085,Aditya Sharma,Female,53,Bengaluru,Karnataka,South,Standard
+CUST0086,Rahul Sethi,Male,30,Jaipur,Rajasthan,West,Gold
+CUST0087,Amit Khanna,Female,37,Gurugram,Haryana,North,Gold
+CUST0088,Isha Joshi,Male,53,Ahmedabad,Gujarat,West,Standard
+CUST0089,Pooja Sethi,Male,45,Bengaluru,Karnataka,South,Premium
+CUST0090,Meera Singh,Male,33,Ranchi,Jharkhand,East,Standard
+CUST0091,Diya Chopra,Female,38,Gurugram,Haryana,North,Gold
+CUST0092,Sneha Chopra,Male,59,Jaipur,Rajasthan,West,Premium
+CUST0093,Rahul Singh,Female,60,Bhubaneswar,Odisha,East,Silver
+CUST0094,Diya Chopra,Female,61,Patna,Bihar,East,Gold
+CUST0095,Karan Khanna,Female,59,Ahmedabad,Gujarat,West,Standard
+CUST0096,Vivaan Gupta,Male,55,Chennai,Tamil Nadu,South,Premium
+CUST0097,Isha Sharma,Female,34,Ranchi,Jharkhand,East,Premium
+CUST0098,Isha Verma,Male,48,Bengaluru,Karnataka,South,Silver
+CUST0099,Karan Joshi,Male,36,Kochi,Kerala,South,Standard
+CUST0100,Isha Arora,Male,37,Gurugram,Haryana,North,Standard
+CUST0101,Amit Kapoor,Female,30,Kolkata,West Bengal,East,Standard
+CUST0102,Riya Chopra,Female,55,Bengaluru,Karnataka,South,Standard
+CUST0103,Diya Arora,Female,64,Hyderabad,Telangana,South,Gold
+CUST0104,Ananya Sethi,Male,52,Ahmedabad,Gujarat,West,Silver
+CUST0105,Kavya Saini,Female,31,Bengaluru,Karnataka,South,Standard
+CUST0106,Aditya Kapoor,Male,29,Ludhiana,Punjab,North,Premium
+CUST0107,Vikram Malhotra,Male,45,Ranchi,Jharkhand,East,Standard
+CUST0108,Arjun Mehta,Male,45,Hyderabad,Telangana,South,Standard
+CUST0109,Arjun Joshi,Female,34,Bengaluru,Karnataka,South,Standard
+CUST0110,Meera Arora,Female,46,Mumbai,Maharashtra,West,Standard
+CUST0111,Rohan Kumar,Male,22,Gurugram,Haryana,North,Silver
+CUST0112,Nikhil Bansal,Female,62,Amritsar,Punjab,North,Standard
+CUST0113,Aarav Malhotra,Female,49,Pune,Maharashtra,West,Premium
+CUST0114,Riya Arora,Male,58,Chennai,Tamil Nadu,South,Standard
+CUST0115,Sneha Kapoor,Female,34,Ludhiana,Punjab,North,Silver
+CUST0116,Rohan Singh,Female,54,Mumbai,Maharashtra,West,Silver
+CUST0117,Nikhil Singh,Male,31,Hyderabad,Telangana,South,Standard
+CUST0118,Pooja Arora,Female,18,Ludhiana,Punjab,North,Silver
+CUST0119,Vivaan Sethi,Male,56,Ranchi,Jharkhand,East,Silver
+CUST0120,Aditya Joshi,Male,18,Amritsar,Punjab,North,Silver
+CUST0121,Riya Saini,Male,32,Mumbai,Maharashtra,West,Gold
+CUST0122,Vivaan Joshi,Male,55,Bhubaneswar,Odisha,East,Silver
+CUST0123,Rohan Kumar,Female,47,Amritsar,Punjab,North,Silver
+CUST0124,Vivaan Verma,Male,50,Gurugram,Haryana,North,Gold
+CUST0125,Nikhil Singh,Female,46,Kochi,Kerala,South,Standard
+CUST0126,Riya Mehta,Female,37,Pune,Maharashtra,West,Silver
+CUST0127,Rohan Gupta,Male,60,Amritsar,Punjab,North,Silver
+CUST0128,Pooja Saini,Male,33,Chennai,Tamil Nadu,South,Standard
+CUST0129,Sneha Bansal,Male,21,Ahmedabad,Gujarat,West,Standard
+CUST0130,Aditya Joshi,Female,36,Gurugram,Haryana,North,Gold
+CUST0131,Nikhil Arora,Male,23,Amritsar,Punjab,North,Standard
+CUST0132,Diya Mehta,Female,31,Bengaluru,Karnataka,South,Standard
+CUST0133,Amit Mehta,Female,39,Chennai,Tamil Nadu,South,Standard
+CUST0134,Ananya Saini,Male,34,Bhubaneswar,Odisha,East,Standard
+CUST0135,Vikram Sharma,Female,32,Ludhiana,Punjab,North,Silver
+CUST0136,Priya Mehta,Female,31,Pune,Maharashtra,West,Silver
+CUST0137,Priya Joshi,Male,24,Kolkata,West Bengal,East,Silver
+CUST0138,Priya Joshi,Male,62,Jaipur,Rajasthan,West,Gold
+CUST0139,Aditya Singh,Male,42,Ahmedabad,Gujarat,West,Gold
+CUST0140,Nikhil Kapoor,Male,56,Kochi,Kerala,South,Standard
+CUST0141,Diya Chopra,Female,37,Bhubaneswar,Odisha,East,Silver
+CUST0142,Aditya Chopra,Male,64,Hyderabad,Telangana,South,Silver
+CUST0143,Vivaan Saini,Female,61,Ahmedabad,Gujarat,West,Standard
+CUST0144,Rahul Malhotra,Female,51,Bengaluru,Karnataka,South,Standard
+CUST0145,Isha Malhotra,Female,50,Chennai,Tamil Nadu,South,Standard
+CUST0146,Rohan Malhotra,Male,21,Mumbai,Maharashtra,West,Gold
+CUST0147,Amit Kapoor,Male,48,Bhubaneswar,Odisha,East,Standard
+CUST0148,Rohan Kumar,Female,28,New Delhi,Delhi,North,Gold
+CUST0149,Riya Khanna,Male,19,Ahmedabad,Gujarat,West,Silver
+CUST0150,Pooja Arora,Female,23,Pune,Maharashtra,West,Premium
+CUST0151,Pooja Verma,Male,29,New Delhi,Delhi,North,Standard
+CUST0152,Priya Malhotra,Female,28,Hyderabad,Telangana,South,Premium
+CUST0153,Ananya Singh,Male,27,Kolkata,West Bengal,East,Silver
+CUST0154,Diya Kumar,Male,19,Hyderabad,Telangana,South,Standard
+CUST0155,Rahul Chopra,Female,28,Patna,Bihar,East,Silver
+CUST0156,Aditya Khanna,Male,22,Ahmedabad,Gujarat,West,Gold
+CUST0157,Kavya Khanna,Female,28,Kochi,Kerala,South,Premium
+CUST0158,Aditya Singh,Female,39,Kochi,Kerala,South,Standard
+CUST0159,Vikram Joshi,Female,31,Kolkata,West Bengal,East,Gold
+CUST0160,Rahul Gupta,Male,31,Gurugram,Haryana,North,Silver
+CUST0161,Isha Mehta,Male,57,New Delhi,Delhi,North,Silver
+CUST0162,Priya Singh,Female,50,Pune,Maharashtra,West,Gold
+CUST0163,Aarav Chopra,Male,64,Patna,Bihar,East,Standard
+CUST0164,Vikram Bansal,Female,23,Bhubaneswar,Odisha,East,Premium
+CUST0165,Pooja Bansal,Female,32,Jaipur,Rajasthan,West,Gold
+CUST0166,Meera Khanna,Female,53,Ludhiana,Punjab,North,Premium
+CUST0167,Aarav Arora,Male,50,Bengaluru,Karnataka,South,Standard
+CUST0168,Vivaan Mehta,Male,27,Ahmedabad,Gujarat,West,Standard
+CUST0169,Isha Saini,Male,62,Ahmedabad,Gujarat,West,Standard
+CUST0170,Neha Arora,Male,46,Pune,Maharashtra,West,Standard
+CUST0171,Isha Kumar,Male,53,Kochi,Kerala,South,Silver
+CUST0172,Rahul Verma,Male,27,Chennai,Tamil Nadu,South,Standard
+CUST0173,Vikram Kapoor,Male,63,Ahmedabad,Gujarat,West,Silver
+CUST0174,Isha Bansal,Male,42,Hyderabad,Telangana,South,Standard
+CUST0175,Ananya Sethi,Male,65,Pune,Maharashtra,West,Silver
+CUST0176,Rahul Bansal,Female,45,Pune,Maharashtra,West,Standard
+CUST0177,Pooja Arora,Male,58,Bengaluru,Karnataka,South,Premium
+CUST0178,Aarav Khanna,Male,43,Jaipur,Rajasthan,West,Gold
+CUST0179,Aarav Saini,Male,57,Ahmedabad,Gujarat,West,Silver
+CUST0180,Amit Gupta,Male,43,Patna,Bihar,East,Standard
+CUST0181,Meera Chopra,Female,55,Patna,Bihar,East,Standard
+CUST0182,Vivaan Joshi,Male,60,Amritsar,Punjab,North,Standard
+CUST0183,Pooja Malhotra,Male,24,Chennai,Tamil Nadu,South,Standard
+CUST0184,Aarav Sharma,Female,60,Mumbai,Maharashtra,West,Silver
+CUST0185,Kavya Gupta,Male,34,Kochi,Kerala,South,Premium
+CUST0186,Meera Malhotra,Female,57,Ludhiana,Punjab,North,Silver
+CUST0187,Isha Khanna,Female,36,Ludhiana,Punjab,North,Standard
+CUST0188,Riya Arora,Male,33,Bhubaneswar,Odisha,East,Silver
+CUST0189,Aarav Khanna,Female,19,Amritsar,Punjab,North,Silver
+CUST0190,Kavya Khanna,Female,21,Ludhiana,Punjab,North,Standard
+CUST0191,Karan Singh,Male,27,Kolkata,West Bengal,East,Gold
+CUST0192,Aarav Kapoor,Female,49,Amritsar,Punjab,North,Silver
+CUST0193,Vikram Sharma,Female,20,Kolkata,West Bengal,East,Standard
+CUST0194,Vikram Malhotra,Male,54,Chennai,Tamil Nadu,South,Standard
+CUST0195,Neha Bansal,Male,49,Ludhiana,Punjab,North,Premium
+CUST0196,Priya Joshi,Female,54,Ranchi,Jharkhand,East,Standard
+CUST0197,Sneha Kumar,Male,24,Bhubaneswar,Odisha,East,Gold
+CUST0198,Pooja Arora,Female,46,Mumbai,Maharashtra,West,Standard
+CUST0199,Aarav Saini,Female,28,Amritsar,Punjab,North,Standard
+CUST0200,Aditya Kapoor,Male,37,Amritsar,Punjab,North,Silver
+CUST0201,Amit Kumar,Female,52,Ahmedabad,Gujarat,West,Premium
+CUST0202,Diya Bansal,Male,47,Ahmedabad,Gujarat,West,Silver
+CUST0203,Riya Kumar,Male,31,Bhubaneswar,Odisha,East,Gold
+CUST0204,Isha Chopra,Male,39,Amritsar,Punjab,North,Gold
+CUST0205,Isha Kumar,Male,28,New Delhi,Delhi,North,Gold
+CUST0206,Nikhil Verma,Male,51,Ranchi,Jharkhand,East,Silver
+CUST0207,Rohan Mehta,Female,59,Bengaluru,Karnataka,South,Standard
+CUST0208,Rohan Joshi,Female,29,Chennai,Tamil Nadu,South,Silver
+CUST0209,Karan Mehta,Female,43,Mumbai,Maharashtra,West,Standard
+CUST0210,Priya Kumar,Male,60,Bhubaneswar,Odisha,East,Standard
+CUST0211,Arjun Singh,Male,38,Mumbai,Maharashtra,West,Gold
+CUST0212,Arjun Sharma,Female,57,Chennai,Tamil Nadu,South,Silver
+CUST0213,Neha Bansal,Female,22,Amritsar,Punjab,North,Silver
+CUST0214,Arjun Saini,Male,52,Hyderabad,Telangana,South,Gold
+CUST0215,Isha Joshi,Male,43,Ludhiana,Punjab,North,Silver
+CUST0216,Amit Bansal,Female,42,Bengaluru,Karnataka,South,Silver
+CUST0217,Nikhil Chopra,Male,20,Pune,Maharashtra,West,Standard
+CUST0218,Diya Singh,Male,51,Kochi,Kerala,South,Standard
+CUST0219,Diya Joshi,Female,34,Mumbai,Maharashtra,West,Premium
+CUST0220,Riya Saini,Male,33,Jaipur,Rajasthan,West,Gold
+CUST0221,Riya Kapoor,Female,33,Pune,Maharashtra,West,Gold
+CUST0222,Kavya Chopra,Female,43,Bengaluru,Karnataka,South,Standard
+CUST0223,Neha Mehta,Female,34,Hyderabad,Telangana,South,Standard
+CUST0224,Karan Khanna,Male,24,Mumbai,Maharashtra,West,Standard
+CUST0225,Vikram Kumar,Male,46,Ranchi,Jharkhand,East,Silver
+CUST0226,Meera Kapoor,Male,59,Bhubaneswar,Odisha,East,Silver
+CUST0227,Aditya Sethi,Male,51,Bhubaneswar,Odisha,East,Gold
+CUST0228,Vikram Mehta,Female,61,Chennai,Tamil Nadu,South,Silver
+CUST0229,Riya Verma,Female,42,Pune,Maharashtra,West,Gold
+CUST0230,Sneha Arora,Female,19,Ludhiana,Punjab,North,Standard
+CUST0231,Vivaan Khanna,Male,30,Hyderabad,Telangana,South,Silver
+CUST0232,Aditya Joshi,Female,46,Ranchi,Jharkhand,East,Gold
+CUST0233,Diya Chopra,Female,61,Kolkata,West Bengal,East,Premium
+CUST0234,Karan Verma,Female,47,Hyderabad,Telangana,South,Standard
+CUST0235,Priya Bansal,Male,21,Kolkata,West Bengal,East,Silver
+CUST0236,Sneha Sharma,Female,32,Mumbai,Maharashtra,West,Standard
+CUST0237,Arjun Sethi,Female,54,Ludhiana,Punjab,North,Gold
+CUST0238,Rohan Kapoor,Female,63,Chennai,Tamil Nadu,South,Silver
+CUST0239,Isha Kumar,Male,21,Bhubaneswar,Odisha,East,Standard
+CUST0240,Pooja Arora,Male,60,New Delhi,Delhi,North,Standard
+CUST0241,Amit Sharma,Female,23,Hyderabad,Telangana,South,Gold
+CUST0242,Neha Kapoor,Female,52,Ahmedabad,Gujarat,West,Silver
+CUST0243,Nikhil Singh,Female,34,Ludhiana,Punjab,North,Standard
+CUST0244,Aditya Malhotra,Female,64,Ranchi,Jharkhand,East,Standard
+CUST0245,Priya Gupta,Male,58,New Delhi,Delhi,North,Standard
+CUST0246,Amit Singh,Female,29,Chennai,Tamil Nadu,South,Standard
+CUST0247,Vikram Chopra,Female,51,Patna,Bihar,East,Standard
+CUST0248,Rohan Bansal,Female,65,Patna,Bihar,East,Silver
+CUST0249,Rahul Sethi,Male,45,Ahmedabad,Gujarat,West,Standard
+CUST0250,Kavya Bansal,Female,46,Ludhiana,Punjab,North,Gold
+CUST0251,Vikram Kumar,Male,30,Gurugram,Haryana,North,Standard
+CUST0252,Pooja Bansal,Male,65,Ahmedabad,Gujarat,West,Silver
+CUST0253,Isha Chopra,Female,53,Chennai,Tamil Nadu,South,Silver
+CUST0254,Karan Gupta,Female,48,Ahmedabad,Gujarat,West,Gold
+CUST0255,Ananya Gupta,Female,48,Hyderabad,Telangana,South,Standard
+CUST0256,Priya Arora,Male,56,Amritsar,Punjab,North,Standard
+CUST0257,Priya Joshi,Female,34,Kolkata,West Bengal,East,Standard
+CUST0258,Isha Singh,Male,36,Amritsar,Punjab,North,Gold
+CUST0259,Amit Kumar,Male,32,Hyderabad,Telangana,South,Premium
+CUST0260,Arjun Verma,Female,21,Kolkata,West Bengal,East,Standard
+CUST0261,Diya Malhotra,Female,18,Ludhiana,Punjab,North,Standard
+CUST0262,Kavya Kumar,Female,64,Pune,Maharashtra,West,Premium
+CUST0263,Aditya Verma,Female,24,New Delhi,Delhi,North,Standard
+CUST0264,Rohan Saini,Male,28,Ludhiana,Punjab,North,Silver
+CUST0265,Vivaan Khanna,Male,21,Hyderabad,Telangana,South,Standard
+CUST0266,Amit Kapoor,Male,46,Kolkata,West Bengal,East,Silver
+CUST0267,Vivaan Saini,Female,39,New Delhi,Delhi,North,Standard
+CUST0268,Riya Khanna,Male,45,Gurugram,Haryana,North,Gold
+CUST0269,Sneha Gupta,Female,23,Patna,Bihar,East,Gold
+CUST0270,Aditya Joshi,Male,55,Mumbai,Maharashtra,West,Standard
+CUST0271,Aditya Sharma,Female,29,Kolkata,West Bengal,East,Silver
+CUST0272,Sneha Joshi,Female,63,Kochi,Kerala,South,Standard
+CUST0273,Vikram Saini,Male,24,Kolkata,West Bengal,East,Silver
+CUST0274,Diya Gupta,Female,20,Ranchi,Jharkhand,East,Standard
+CUST0275,Priya Kapoor,Male,61,Patna,Bihar,East,Standard
+CUST0276,Rohan Chopra,Male,39,Bengaluru,Karnataka,South,Silver
+CUST0277,Vivaan Bansal,Male,30,Mumbai,Maharashtra,West,Standard
+CUST0278,Kavya Khanna,Male,63,Mumbai,Maharashtra,West,Premium
+CUST0279,Ananya Arora,Female,55,Ahmedabad,Gujarat,West,Gold
+CUST0280,Pooja Bansal,Male,29,Chennai,Tamil Nadu,South,Premium
+CUST0281,Neha Malhotra,Female,37,Ranchi,Jharkhand,East,Standard
+CUST0282,Kavya Sethi,Male,50,Pune,Maharashtra,West,Standard
+CUST0283,Aarav Arora,Male,39,Kolkata,West Bengal,East,Standard
+CUST0284,Karan Mehta,Female,32,Ahmedabad,Gujarat,West,Standard
+CUST0285,Diya Sharma,Female,20,Jaipur,Rajasthan,West,Gold
+CUST0286,Rohan Chopra,Male,49,Bengaluru,Karnataka,South,Standard
+CUST0287,Vikram Bansal,Female,37,Kochi,Kerala,South,Standard
+CUST0288,Karan Joshi,Female,21,Chennai,Tamil Nadu,South,Silver
+CUST0289,Aditya Saini,Male,59,Ahmedabad,Gujarat,West,Standard
+CUST0290,Diya Kapoor,Female,42,Amritsar,Punjab,North,Gold
+CUST0291,Pooja Kapoor,Male,62,Hyderabad,Telangana,South,Standard
+CUST0292,Pooja Sethi,Female,35,Jaipur,Rajasthan,West,Silver
+CUST0293,Amit Joshi,Female,27,Mumbai,Maharashtra,West,Standard
+CUST0294,Neha Sharma,Female,47,Kolkata,West Bengal,East,Premium
+CUST0295,Meera Gupta,Male,61,Hyderabad,Telangana,South,Gold
+CUST0296,Kavya Sharma,Male,58,Kochi,Kerala,South,Standard
+CUST0297,Vivaan Verma,Female,51,Mumbai,Maharashtra,West,Gold
+CUST0298,Nikhil Singh,Female,29,Jaipur,Rajasthan,West,Standard
+CUST0299,Vikram Gupta,Female,52,Amritsar,Punjab,North,Gold
+CUST0300,Sneha Khanna,Male,61,New Delhi,Delhi,North,Standard
+CUST0301,Rahul Gupta,Male,58,Amritsar,Punjab,North,Standard
+CUST0302,Neha Khanna,Male,42,Kochi,Kerala,South,Silver
+CUST0303,Rohan Sharma,Male,45,Jaipur,Rajasthan,West,Standard
+CUST0304,Rahul Saini,Female,29,Mumbai,Maharashtra,West,Standard
+CUST0305,Neha Saini,Male,20,Kolkata,West Bengal,East,Standard
+CUST0306,Nikhil Arora,Male,47,Ranchi,Jharkhand,East,Standard
+CUST0307,Meera Bansal,Female,18,Mumbai,Maharashtra,West,Standard
+CUST0308,Meera Sethi,Male,54,Ahmedabad,Gujarat,West,Standard
+CUST0309,Rahul Sharma,Female,61,Kochi,Kerala,South,Standard
+CUST0310,Neha Malhotra,Male,37,Patna,Bihar,East,Standard
+CUST0311,Amit Saini,Male,43,Amritsar,Punjab,North,Standard
+CUST0312,Aditya Malhotra,Male,22,Jaipur,Rajasthan,West,Standard
+CUST0313,Priya Sethi,Male,41,Gurugram,Haryana,North,Silver
+CUST0314,Vivaan Chopra,Female,56,Bhubaneswar,Odisha,East,Silver
+CUST0315,Ananya Kumar,Male,55,Patna,Bihar,East,Standard
+CUST0316,Isha Verma,Female,59,Ranchi,Jharkhand,East,Gold
+CUST0317,Kavya Gupta,Male,25,Pune,Maharashtra,West,Standard
+CUST0318,Rahul Saini,Male,51,Ahmedabad,Gujarat,West,Silver
+CUST0319,Ananya Mehta,Male,35,Jaipur,Rajasthan,West,Silver
+CUST0320,Neha Bansal,Female,44,Pune,Maharashtra,West,Premium
+CUST0321,Arjun Sharma,Female,48,Bhubaneswar,Odisha,East,Silver
+CUST0322,Sneha Gupta,Female,45,Mumbai,Maharashtra,West,Standard
+CUST0323,Rohan Saini,Female,58,Ranchi,Jharkhand,East,Premium
+CUST0324,Amit Gupta,Female,58,Kolkata,West Bengal,East,Standard
+CUST0325,Rohan Khanna,Female,36,Amritsar,Punjab,North,Gold
+CUST0326,Isha Chopra,Male,62,Amritsar,Punjab,North,Gold
+CUST0327,Karan Chopra,Male,18,Pune,Maharashtra,West,Standard
+CUST0328,Neha Gupta,Male,46,Jaipur,Rajasthan,West,Standard
+CUST0329,Riya Singh,Male,43,Ludhiana,Punjab,North,Silver
+CUST0330,Priya Khanna,Female,63,Pune,Maharashtra,West,Silver
+CUST0331,Vikram Kumar,Male,46,Mumbai,Maharashtra,West,Standard
+CUST0332,Rahul Kumar,Male,32,Kochi,Kerala,South,Silver
+CUST0333,Ananya Kapoor,Female,61,Patna,Bihar,East,Premium
+CUST0334,Ananya Kapoor,Female,32,Kolkata,West Bengal,East,Standard
+CUST0335,Pooja Saini,Male,30,Chennai,Tamil Nadu,South,Standard
+CUST0336,Priya Arora,Female,63,Amritsar,Punjab,North,Standard
+CUST0337,Aditya Bansal,Male,53,Patna,Bihar,East,Silver
+CUST0338,Riya Arora,Male,42,Amritsar,Punjab,North,Silver
+CUST0339,Diya Mehta,Female,48,Jaipur,Rajasthan,West,Silver
+CUST0340,Riya Mehta,Male,53,Pune,Maharashtra,West,Standard
+CUST0341,Karan Malhotra,Female,62,Ahmedabad,Gujarat,West,Silver
+CUST0342,Isha Kapoor,Female,38,Chennai,Tamil Nadu,South,Gold
+CUST0343,Amit Saini,Female,59,Bengaluru,Karnataka,South,Gold
+CUST0344,Riya Mehta,Male,21,Ranchi,Jharkhand,East,Standard
+CUST0345,Arjun Sethi,Female,42,Gurugram,Haryana,North,Standard
+CUST0346,Nikhil Sharma,Male,22,New Delhi,Delhi,North,Standard
+CUST0347,Diya Kumar,Male,38,Gurugram,Haryana,North,Standard
+CUST0348,Rahul Saini,Male,24,Ranchi,Jharkhand,East,Silver
+CUST0349,Amit Khanna,Female,42,Hyderabad,Telangana,South,Premium
+CUST0350,Karan Gupta,Female,59,Gurugram,Haryana,North,Standard
+CUST0351,Amit Sharma,Male,41,Jaipur,Rajasthan,West,Standard
+CUST0352,Arjun Mehta,Male,49,Gurugram,Haryana,North,Standard
+CUST0353,Arjun Bansal,Female,53,Bhubaneswar,Odisha,East,Standard
+CUST0354,Aarav Joshi,Male,56,Pune,Maharashtra,West,Standard
+CUST0355,Vivaan Sethi,Female,44,Ludhiana,Punjab,North,Silver
+CUST0356,Rohan Bansal,Female,61,Pune,Maharashtra,West,Standard
+CUST0357,Rohan Kumar,Female,19,Gurugram,Haryana,North,Standard
+CUST0358,Vivaan Kapoor,Male,25,Gurugram,Haryana,North,Silver
+CUST0359,Arjun Gupta,Male,48,Hyderabad,Telangana,South,Gold
+CUST0360,Sneha Mehta,Male,33,Jaipur,Rajasthan,West,Standard
+CUST0361,Diya Bansal,Female,33,Ranchi,Jharkhand,East,Standard
+CUST0362,Pooja Bansal,Male,37,Jaipur,Rajasthan,West,Premium
+CUST0363,Aarav Chopra,Female,37,Kochi,Kerala,South,Silver
+CUST0364,Vikram Kapoor,Female,33,Amritsar,Punjab,North,Silver
+CUST0365,Vivaan Arora,Male,50,New Delhi,Delhi,North,Standard
+CUST0366,Vivaan Chopra,Male,44,Kolkata,West Bengal,East,Standard
+CUST0367,Ananya Singh,Male,40,Ludhiana,Punjab,North,Premium
+CUST0368,Rohan Singh,Female,32,Amritsar,Punjab,North,Premium
+CUST0369,Meera Mehta,Male,59,Mumbai,Maharashtra,West,Silver
+CUST0370,Aditya Khanna,Female,47,Kolkata,West Bengal,East,Silver
+CUST0371,Sneha Kapoor,Male,26,Gurugram,Haryana,North,Standard
+CUST0372,Vivaan Joshi,Female,35,Gurugram,Haryana,North,Premium
+CUST0373,Nikhil Chopra,Female,50,Amritsar,Punjab,North,Premium
+CUST0374,Aarav Khanna,Female,63,Bhubaneswar,Odisha,East,Standard
+CUST0375,Aditya Chopra,Female,30,Gurugram,Haryana,North,Standard
+CUST0376,Vivaan Verma,Male,21,Pune,Maharashtra,West,Standard
+CUST0377,Isha Saini,Male,35,Kochi,Kerala,South,Standard
+CUST0378,Rohan Arora,Male,19,Patna,Bihar,East,Silver
+CUST0379,Pooja Gupta,Female,27,Gurugram,Haryana,North,Standard
+CUST0380,Ananya Kumar,Male,32,Bhubaneswar,Odisha,East,Premium
+CUST0381,Amit Singh,Male,45,Gurugram,Haryana,North,Standard
+CUST0382,Karan Sethi,Female,21,Gurugram,Haryana,North,Premium
+CUST0383,Rahul Kapoor,Male,46,Ludhiana,Punjab,North,Silver
+CUST0384,Rohan Kapoor,Female,54,Kochi,Kerala,South,Gold
+CUST0385,Aditya Kapoor,Male,39,Bhubaneswar,Odisha,East,Gold
+CUST0386,Rahul Khanna,Male,44,Mumbai,Maharashtra,West,Standard
+CUST0387,Neha Gupta,Female,56,Ahmedabad,Gujarat,West,Silver
+CUST0388,Kavya Arora,Female,35,Kolkata,West Bengal,East,Standard
+CUST0389,Arjun Sharma,Male,28,Ranchi,Jharkhand,East,Silver
+CUST0390,Arjun Kumar,Male,35,New Delhi,Delhi,North,Silver
+CUST0391,Meera Arora,Male,38,Bengaluru,Karnataka,South,Premium
+CUST0392,Amit Sharma,Female,58,Ludhiana,Punjab,North,Silver
+CUST0393,Sneha Arora,Male,57,Kochi,Kerala,South,Silver
+CUST0394,Vivaan Bansal,Female,25,Chennai,Tamil Nadu,South,Standard
+CUST0395,Isha Singh,Male,61,Ludhiana,Punjab,North,Silver
+CUST0396,Vikram Arora,Male,40,Mumbai,Maharashtra,West,Silver
+CUST0397,Pooja Bansal,Male,34,Kolkata,West Bengal,East,Premium
+CUST0398,Vikram Mehta,Male,53,Mumbai,Maharashtra,West,Standard
+CUST0399,Pooja Kapoor,Female,60,Patna,Bihar,East,Standard
+CUST0400,Vikram Mehta,Male,49,Mumbai,Maharashtra,West,Silver
+CUST0401,Vikram Bansal,Female,19,Ludhiana,Punjab,North,Silver
+CUST0402,Riya Verma,Female,31,Gurugram,Haryana,North,Standard
+CUST0403,Kavya Mehta,Female,29,Bengaluru,Karnataka,South,Silver
+CUST0404,Isha Gupta,Female,33,Amritsar,Punjab,North,Gold
+CUST0405,Vivaan Joshi,Male,34,Kochi,Kerala,South,Premium
+CUST0406,Amit Chopra,Male,31,Jaipur,Rajasthan,West,Standard
+CUST0407,Kavya Malhotra,Male,37,Bengaluru,Karnataka,South,Standard
+CUST0408,Pooja Khanna,Male,38,Ranchi,Jharkhand,East,Standard
+CUST0409,Karan Sharma,Male,64,Ranchi,Jharkhand,East,Standard
+CUST0410,Vikram Khanna,Female,24,Kolkata,West Bengal,East,Standard
+CUST0411,Ananya Malhotra,Female,42,Ranchi,Jharkhand,East,Premium
+CUST0412,Isha Kumar,Male,38,Kolkata,West Bengal,East,Silver
+CUST0413,Kavya Saini,Male,40,Chennai,Tamil Nadu,South,Gold
+CUST0414,Ananya Gupta,Female,20,Kolkata,West Bengal,East,Standard
+CUST0415,Karan Sethi,Female,54,Gurugram,Haryana,North,Standard
+CUST0416,Sneha Bansal,Male,22,Hyderabad,Telangana,South,Gold
+CUST0417,Vikram Singh,Male,59,New Delhi,Delhi,North,Silver
+CUST0418,Nikhil Gupta,Female,56,Bengaluru,Karnataka,South,Silver
+CUST0419,Amit Arora,Male,53,Amritsar,Punjab,North,Standard
+CUST0420,Diya Sharma,Male,51,Hyderabad,Telangana,South,Gold
+CUST0421,Ananya Singh,Female,23,New Delhi,Delhi,North,Gold
+CUST0422,Arjun Saini,Male,37,Mumbai,Maharashtra,West,Gold
+CUST0423,Aditya Mehta,Male,38,Ahmedabad,Gujarat,West,Standard
+CUST0424,Nikhil Malhotra,Male,62,Jaipur,Rajasthan,West,Standard
+CUST0425,Karan Verma,Male,20,Jaipur,Rajasthan,West,Standard
+CUST0426,Meera Verma,Male,41,Ranchi,Jharkhand,East,Silver
+CUST0427,Pooja Saini,Male,36,Amritsar,Punjab,North,Silver
+CUST0428,Pooja Malhotra,Female,29,Bhubaneswar,Odisha,East,Gold
+CUST0429,Arjun Singh,Male,53,Ahmedabad,Gujarat,West,Standard
+CUST0430,Aarav Kumar,Male,45,Ludhiana,Punjab,North,Gold
+CUST0431,Isha Sharma,Male,21,Chennai,Tamil Nadu,South,Silver
+CUST0432,Neha Malhotra,Female,28,Patna,Bihar,East,Gold
+CUST0433,Sneha Gupta,Male,27,Hyderabad,Telangana,South,Standard
+CUST0434,Ananya Sharma,Female,62,Kolkata,West Bengal,East,Silver
+CUST0435,Isha Singh,Female,59,Chennai,Tamil Nadu,South,Gold
+CUST0436,Pooja Gupta,Female,54,Hyderabad,Telangana,South,Silver
+CUST0437,Nikhil Gupta,Female,43,Mumbai,Maharashtra,West,Standard
+CUST0438,Karan Kumar,Female,41,Jaipur,Rajasthan,West,Silver
+CUST0439,Amit Malhotra,Male,61,Ahmedabad,Gujarat,West,Standard
+CUST0440,Meera Bansal,Male,38,Patna,Bihar,East,Standard
+CUST0441,Nikhil Khanna,Male,24,Kochi,Kerala,South,Standard
+CUST0442,Priya Bansal,Female,33,Kochi,Kerala,South,Gold
+CUST0443,Isha Malhotra,Male,62,Hyderabad,Telangana,South,Gold
+CUST0444,Meera Kumar,Female,38,Chennai,Tamil Nadu,South,Silver
+CUST0445,Karan Malhotra,Female,35,Ludhiana,Punjab,North,Gold
+CUST0446,Meera Bansal,Female,24,Chennai,Tamil Nadu,South,Standard
+CUST0447,Diya Bansal,Male,54,Hyderabad,Telangana,South,Premium
+CUST0448,Rahul Singh,Female,54,Amritsar,Punjab,North,Silver
+CUST0449,Pooja Chopra,Female,29,Gurugram,Haryana,North,Standard
+CUST0450,Aarav Kumar,Female,59,Bengaluru,Karnataka,South,Standard
+CUST0451,Aarav Sharma,Female,51,Ahmedabad,Gujarat,West,Standard
+CUST0452,Amit Kapoor,Female,34,Chennai,Tamil Nadu,South,Silver
+CUST0453,Rohan Kumar,Male,38,Bhubaneswar,Odisha,East,Standard
+CUST0454,Sneha Chopra,Female,51,Ahmedabad,Gujarat,West,Gold
+CUST0455,Karan Malhotra,Male,64,Gurugram,Haryana,North,Silver
+CUST0456,Nikhil Singh,Male,49,Kochi,Kerala,South,Standard
+CUST0457,Arjun Khanna,Female,32,New Delhi,Delhi,North,Standard
+CUST0458,Neha Malhotra,Male,31,Mumbai,Maharashtra,West,Standard
+CUST0459,Vikram Mehta,Female,19,Bengaluru,Karnataka,South,Standard
+CUST0460,Aditya Bansal,Male,59,Bhubaneswar,Odisha,East,Silver
+CUST0461,Karan Verma,Male,60,Ahmedabad,Gujarat,West,Gold
+CUST0462,Ananya Bansal,Male,25,Gurugram,Haryana,North,Standard
+CUST0463,Amit Verma,Male,25,Kochi,Kerala,South,Gold
+CUST0464,Neha Khanna,Male,59,Patna,Bihar,East,Standard
+CUST0465,Diya Kumar,Male,20,Ahmedabad,Gujarat,West,Standard
+CUST0466,Kavya Joshi,Female,50,Chennai,Tamil Nadu,South,Silver
+CUST0467,Vikram Gupta,Female,65,Jaipur,Rajasthan,West,Standard
+CUST0468,Rohan Khanna,Male,49,New Delhi,Delhi,North,Standard
+CUST0469,Priya Kapoor,Female,62,Chennai,Tamil Nadu,South,Premium
+CUST0470,Isha Kumar,Male,55,Mumbai,Maharashtra,West,Premium
+CUST0471,Rahul Chopra,Male,21,Chennai,Tamil Nadu,South,Silver
+CUST0472,Rahul Singh,Male,46,Amritsar,Punjab,North,Standard
+CUST0473,Kavya Malhotra,Female,61,Ahmedabad,Gujarat,West,Premium
+CUST0474,Neha Sethi,Male,38,Amritsar,Punjab,North,Standard
+CUST0475,Aditya Sethi,Male,43,Ahmedabad,Gujarat,West,Standard
+CUST0476,Aarav Gupta,Male,51,Kochi,Kerala,South,Standard
+CUST0477,Kavya Mehta,Female,40,Patna,Bihar,East,Silver
+CUST0478,Riya Gupta,Female,47,Ahmedabad,Gujarat,West,Premium
+CUST0479,Aarav Verma,Female,51,Gurugram,Haryana,North,Standard
+CUST0480,Neha Kapoor,Male,37,Pune,Maharashtra,West,Standard
+CUST0481,Aditya Verma,Female,64,Pune,Maharashtra,West,Standard
+CUST0482,Aditya Chopra,Male,63,Patna,Bihar,East,Gold
+CUST0483,Diya Sharma,Female,52,New Delhi,Delhi,North,Standard
+CUST0484,Kavya Singh,Female,44,Patna,Bihar,East,Silver
+CUST0485,Vivaan Bansal,Male,31,Chennai,Tamil Nadu,South,Gold
+CUST0486,Aditya Singh,Female,31,Pune,Maharashtra,West,Silver
+CUST0487,Vikram Bansal,Male,55,Ludhiana,Punjab,North,Standard
+CUST0488,Pooja Khanna,Female,59,Ranchi,Jharkhand,East,Silver
+CUST0489,Meera Arora,Female,26,Kochi,Kerala,South,Standard
+CUST0490,Pooja Saini,Male,55,Jaipur,Rajasthan,West,Standard
+CUST0491,Vikram Sharma,Male,50,New Delhi,Delhi,North,Silver
+CUST0492,Priya Joshi,Male,58,Bengaluru,Karnataka,South,Standard
+CUST0493,Amit Verma,Male,45,Bhubaneswar,Odisha,East,Gold
+CUST0494,Priya Malhotra,Female,33,Bengaluru,Karnataka,South,Standard
+CUST0495,Sneha Khanna,Male,28,Ludhiana,Punjab,North,Premium
+CUST0496,Rahul Verma,Male,61,Amritsar,Punjab,North,Standard
+CUST0497,Amit Arora,Male,52,Kolkata,West Bengal,East,Gold
+CUST0498,Aarav Bansal,Male,64,Pune,Maharashtra,West,Standard
+CUST0499,Diya Khanna,Female,58,Ahmedabad,Gujarat,West,Standard
+CUST0500,Vikram Gupta,Female,37,New Delhi,Delhi,North,Gold
+CUST0501,Arjun Kapoor,Male,45,Gurugram,Haryana,North,Standard
+CUST0502,Isha Singh,Female,19,Kochi,Kerala,South,Standard
+CUST0503,Amit Sharma,Male,55,Chennai,Tamil Nadu,South,Standard
+CUST0504,Kavya Sharma,Male,23,Bengaluru,Karnataka,South,Standard
+CUST0505,Pooja Sethi,Male,46,Pune,Maharashtra,West,Silver
+CUST0506,Vikram Khanna,Female,62,Gurugram,Haryana,North,Silver
+CUST0507,Isha Arora,Male,63,Ludhiana,Punjab,North,Standard
+CUST0508,Ananya Verma,Male,43,Pune,Maharashtra,West,Silver
+CUST0509,Riya Khanna,Male,58,Mumbai,Maharashtra,West,Standard
+CUST0510,Riya Chopra,Female,38,Mumbai,Maharashtra,West,Standard
+CUST0511,Amit Kapoor,Male,28,Jaipur,Rajasthan,West,Standard
+CUST0512,Isha Saini,Male,18,Chennai,Tamil Nadu,South,Standard
+CUST0513,Diya Bansal,Female,62,Gurugram,Haryana,North,Silver
+CUST0514,Aarav Arora,Female,45,Ranchi,Jharkhand,East,Gold
+CUST0515,Priya Kapoor,Female,64,Pune,Maharashtra,West,Standard
+CUST0516,Meera Kumar,Male,21,Patna,Bihar,East,Standard
+CUST0517,Arjun Kumar,Male,64,Patna,Bihar,East,Standard
+CUST0518,Riya Sharma,Male,32,New Delhi,Delhi,North,Gold
+CUST0519,Amit Mehta,Male,28,Amritsar,Punjab,North,Silver
+CUST0520,Kavya Singh,Female,56,Bhubaneswar,Odisha,East,Gold
+CUST0521,Rohan Joshi,Female,46,New Delhi,Delhi,North,Standard
+CUST0522,Vikram Kumar,Male,29,Ranchi,Jharkhand,East,Standard
+CUST0523,Isha Saini,Male,38,Ludhiana,Punjab,North,Gold
+CUST0524,Rohan Sethi,Male,60,Patna,Bihar,East,Standard
+CUST0525,Isha Kapoor,Male,55,Gurugram,Haryana,North,Gold
+CUST0526,Diya Kumar,Male,20,Kochi,Kerala,South,Gold
+CUST0527,Amit Saini,Male,28,Patna,Bihar,East,Silver
+CUST0528,Arjun Sethi,Female,56,Hyderabad,Telangana,South,Silver
+CUST0529,Rahul Kapoor,Male,18,Kochi,Kerala,South,Standard
+CUST0530,Pooja Arora,Male,35,New Delhi,Delhi,North,Silver
+CUST0531,Neha Saini,Female,28,Chennai,Tamil Nadu,South,Standard
+CUST0532,Rahul Bansal,Male,29,Ahmedabad,Gujarat,West,Silver
+CUST0533,Arjun Sharma,Male,22,Patna,Bihar,East,Standard
+CUST0534,Aditya Joshi,Male,43,Pune,Maharashtra,West,Standard
+CUST0535,Ananya Joshi,Male,23,Ahmedabad,Gujarat,West,Gold
+CUST0536,Nikhil Gupta,Female,54,Patna,Bihar,East,Premium
+CUST0537,Aditya Kapoor,Male,35,Mumbai,Maharashtra,West,Gold
+CUST0538,Isha Joshi,Female,34,Ludhiana,Punjab,North,Standard
+CUST0539,Arjun Gupta,Male,30,Ranchi,Jharkhand,East,Silver
+CUST0540,Pooja Singh,Male,49,Ahmedabad,Gujarat,West,Silver
+CUST0541,Riya Gupta,Male,61,Hyderabad,Telangana,South,Standard
+CUST0542,Karan Verma,Male,45,Chennai,Tamil Nadu,South,Silver
+CUST0543,Aditya Arora,Female,28,Kolkata,West Bengal,East,Standard
+CUST0544,Riya Singh,Female,57,Kolkata,West Bengal,East,Standard
+CUST0545,Pooja Gupta,Female,25,Pune,Maharashtra,West,Standard
+CUST0546,Rahul Verma,Female,44,Ludhiana,Punjab,North,Gold
+CUST0547,Isha Saini,Female,38,Chennai,Tamil Nadu,South,Gold
+CUST0548,Rahul Sharma,Female,58,Jaipur,Rajasthan,West,Gold
+CUST0549,Rohan Sharma,Female,43,Kochi,Kerala,South,Premium
+CUST0550,Meera Malhotra,Female,53,Kochi,Kerala,South,Standard
+CUST0551,Neha Joshi,Male,34,Ludhiana,Punjab,North,Gold
+CUST0552,Kavya Sethi,Female,64,Bhubaneswar,Odisha,East,Silver
+CUST0553,Aditya Saini,Male,62,Kolkata,West Bengal,East,Standard
+CUST0554,Aarav Bansal,Male,55,Ludhiana,Punjab,North,Standard
+CUST0555,Isha Saini,Female,48,Mumbai,Maharashtra,West,Gold
+CUST0556,Ananya Singh,Female,59,Amritsar,Punjab,North,Silver
+CUST0557,Sneha Sethi,Female,41,Mumbai,Maharashtra,West,Gold
+CUST0558,Neha Singh,Female,25,Bhubaneswar,Odisha,East,Premium
+CUST0559,Karan Khanna,Male,18,Pune,Maharashtra,West,Standard
+CUST0560,Aarav Saini,Male,57,Mumbai,Maharashtra,West,Premium
+CUST0561,Amit Saini,Female,52,Kochi,Kerala,South,Silver
+CUST0562,Amit Kumar,Male,21,Pune,Maharashtra,West,Standard
+CUST0563,Ananya Singh,Male,31,Ahmedabad,Gujarat,West,Gold
+CUST0564,Vivaan Arora,Female,55,Kolkata,West Bengal,East,Standard
+CUST0565,Riya Kapoor,Female,33,Pune,Maharashtra,West,Silver
+CUST0566,Vivaan Mehta,Male,64,Amritsar,Punjab,North,Standard
+CUST0567,Karan Singh,Female,31,Amritsar,Punjab,North,Standard
+CUST0568,Karan Gupta,Female,34,Jaipur,Rajasthan,West,Silver
+CUST0569,Isha Gupta,Male,36,Mumbai,Maharashtra,West,Silver
+CUST0570,Riya Kapoor,Male,27,Ahmedabad,Gujarat,West,Silver
+CUST0571,Meera Verma,Female,31,Pune,Maharashtra,West,Silver
+CUST0572,Meera Gupta,Female,39,Bhubaneswar,Odisha,East,Silver
+CUST0573,Isha Joshi,Female,35,New Delhi,Delhi,North,Standard
+CUST0574,Priya Kumar,Male,51,Patna,Bihar,East,Silver
+CUST0575,Diya Sharma,Male,48,Bengaluru,Karnataka,South,Standard
+CUST0576,Kavya Malhotra,Female,40,Kolkata,West Bengal,East,Silver
+CUST0577,Amit Malhotra,Male,46,Pune,Maharashtra,West,Premium
+CUST0578,Aarav Joshi,Male,44,Bengaluru,Karnataka,South,Gold
+CUST0579,Arjun Kumar,Female,30,New Delhi,Delhi,North,Standard
+CUST0580,Sneha Bansal,Female,54,Ahmedabad,Gujarat,West,Standard
+CUST0581,Aarav Sethi,Female,27,Jaipur,Rajasthan,West,Standard
+CUST0582,Ananya Arora,Male,41,Mumbai,Maharashtra,West,Gold
+CUST0583,Arjun Saini,Female,26,Ludhiana,Punjab,North,Standard
+CUST0584,Pooja Sethi,Female,34,Gurugram,Haryana,North,Standard
+CUST0585,Karan Sethi,Female,52,Ranchi,Jharkhand,East,Silver
+CUST0586,Priya Singh,Male,24,Amritsar,Punjab,North,Gold
+CUST0587,Rahul Arora,Male,19,Amritsar,Punjab,North,Standard
+CUST0588,Rohan Joshi,Female,39,Bengaluru,Karnataka,South,Standard
+CUST0589,Isha Arora,Male,41,Kolkata,West Bengal,East,Premium
+CUST0590,Kavya Singh,Male,61,New Delhi,Delhi,North,Standard
+CUST0591,Vikram Malhotra,Male,53,Kochi,Kerala,South,Standard
+CUST0592,Aditya Arora,Male,27,Chennai,Tamil Nadu,South,Silver
+CUST0593,Nikhil Khanna,Male,55,Patna,Bihar,East,Standard
+CUST0594,Riya Verma,Female,52,Ahmedabad,Gujarat,West,Silver
+CUST0595,Rohan Sharma,Female,41,Patna,Bihar,East,Silver
+CUST0596,Arjun Mehta,Male,55,Bengaluru,Karnataka,South,Gold
+CUST0597,Sneha Saini,Male,45,Jaipur,Rajasthan,West,Premium
+CUST0598,Nikhil Joshi,Male,58,Chennai,Tamil Nadu,South,Standard
+CUST0599,Karan Gupta,Male,24,Ahmedabad,Gujarat,West,Standard
+CUST0600,Diya Joshi,Female,30,Bhubaneswar,Odisha,East,Premium
+CUST0601,Pooja Chopra,Male,25,Patna,Bihar,East,Gold
+CUST0602,Vikram Arora,Male,21,Bengaluru,Karnataka,South,Gold
+CUST0603,Amit Arora,Male,45,Kolkata,West Bengal,East,Silver
+CUST0604,Diya Mehta,Female,57,Kochi,Kerala,South,Premium
+CUST0605,Meera Kumar,Female,49,Mumbai,Maharashtra,West,Standard
+CUST0606,Riya Joshi,Female,24,Bengaluru,Karnataka,South,Standard
+CUST0607,Nikhil Joshi,Female,28,Hyderabad,Telangana,South,Premium
+CUST0608,Vikram Verma,Male,45,Pune,Maharashtra,West,Silver
+CUST0609,Riya Saini,Female,41,Ludhiana,Punjab,North,Silver
+CUST0610,Neha Saini,Female,43,Bengaluru,Karnataka,South,Standard
+CUST0611,Meera Verma,Male,50,Mumbai,Maharashtra,West,Premium
+CUST0612,Vivaan Saini,Male,38,Chennai,Tamil Nadu,South,Premium
+CUST0613,Rohan Khanna,Female,35,Ahmedabad,Gujarat,West,Silver
+CUST0614,Isha Saini,Male,47,Bhubaneswar,Odisha,East,Gold
+CUST0615,Diya Arora,Male,50,Pune,Maharashtra,West,Standard
+CUST0616,Isha Kumar,Female,45,Chennai,Tamil Nadu,South,Silver
+CUST0617,Sneha Verma,Female,65,Bengaluru,Karnataka,South,Standard
+CUST0618,Diya Joshi,Male,35,Chennai,Tamil Nadu,South,Silver
+CUST0619,Rohan Malhotra,Male,23,Jaipur,Rajasthan,West,Standard
+CUST0620,Vivaan Sharma,Female,33,Gurugram,Haryana,North,Premium
+CUST0621,Vikram Arora,Female,47,Jaipur,Rajasthan,West,Silver
+CUST0622,Aarav Joshi,Female,37,Patna,Bihar,East,Silver
+CUST0623,Diya Chopra,Female,53,Ahmedabad,Gujarat,West,Standard
+CUST0624,Nikhil Saini,Female,41,Ranchi,Jharkhand,East,Gold
+CUST0625,Vivaan Kapoor,Female,44,Pune,Maharashtra,West,Standard
+CUST0626,Aditya Sethi,Female,27,Chennai,Tamil Nadu,South,Gold
+CUST0627,Vivaan Singh,Male,42,Ahmedabad,Gujarat,West,Gold
+CUST0628,Aditya Verma,Male,47,Ludhiana,Punjab,North,Premium
+CUST0629,Karan Joshi,Male,34,Ludhiana,Punjab,North,Gold
+CUST0630,Meera Gupta,Male,21,New Delhi,Delhi,North,Gold
+CUST0631,Isha Verma,Male,27,Ludhiana,Punjab,North,Gold
+CUST0632,Amit Gupta,Male,34,Bengaluru,Karnataka,South,Standard
+CUST0633,Isha Chopra,Female,22,Pune,Maharashtra,West,Silver
+CUST0634,Pooja Gupta,Male,43,Pune,Maharashtra,West,Gold
+CUST0635,Karan Saini,Female,43,Kolkata,West Bengal,East,Gold
+CUST0636,Priya Verma,Female,37,Mumbai,Maharashtra,West,Silver
+CUST0637,Isha Arora,Male,65,New Delhi,Delhi,North,Standard
+CUST0638,Priya Sethi,Female,44,Jaipur,Rajasthan,West,Standard
+CUST0639,Aditya Gupta,Male,64,Patna,Bihar,East,Gold
+CUST0640,Arjun Kumar,Female,41,Pune,Maharashtra,West,Silver
+CUST0641,Vivaan Chopra,Male,40,Gurugram,Haryana,North,Premium
+CUST0642,Amit Chopra,Female,23,Patna,Bihar,East,Standard
+CUST0643,Vikram Kapoor,Male,38,Hyderabad,Telangana,South,Standard
+CUST0644,Pooja Malhotra,Female,45,Gurugram,Haryana,North,Standard
+CUST0645,Arjun Saini,Male,30,Gurugram,Haryana,North,Standard
+CUST0646,Rahul Chopra,Male,31,Amritsar,Punjab,North,Standard
+CUST0647,Neha Malhotra,Male,33,Ranchi,Jharkhand,East,Gold
+CUST0648,Vikram Sharma,Male,48,Mumbai,Maharashtra,West,Gold
+CUST0649,Vivaan Saini,Male,34,Ranchi,Jharkhand,East,Premium
+CUST0650,Riya Verma,Female,64,Hyderabad,Telangana,South,Silver
+CUST0651,Rahul Malhotra,Female,42,Mumbai,Maharashtra,West,Standard
+CUST0652,Amit Saini,Female,57,Ludhiana,Punjab,North,Standard
+CUST0653,Rohan Sharma,Male,56,Jaipur,Rajasthan,West,Gold
+CUST0654,Riya Kumar,Female,46,Bengaluru,Karnataka,South,Standard
+CUST0655,Rohan Verma,Female,20,Ahmedabad,Gujarat,West,Standard
+CUST0656,Diya Saini,Male,18,Ludhiana,Punjab,North,Standard
+CUST0657,Neha Verma,Female,21,Hyderabad,Telangana,South,Standard
+CUST0658,Ananya Verma,Male,31,Gurugram,Haryana,North,Silver
+CUST0659,Vivaan Arora,Male,41,Bhubaneswar,Odisha,East,Silver
+CUST0660,Rohan Chopra,Male,57,Gurugram,Haryana,North,Standard
+CUST0661,Rahul Joshi,Male,57,Ludhiana,Punjab,North,Standard
+CUST0662,Aditya Singh,Male,60,Ranchi,Jharkhand,East,Gold
+CUST0663,Arjun Sethi,Male,39,New Delhi,Delhi,North,Silver
+CUST0664,Vikram Kapoor,Male,20,Mumbai,Maharashtra,West,Gold
+CUST0665,Pooja Singh,Male,33,Jaipur,Rajasthan,West,Standard
+CUST0666,Riya Sethi,Male,28,Ludhiana,Punjab,North,Standard
+CUST0667,Riya Malhotra,Male,45,Kochi,Kerala,South,Standard
+CUST0668,Aarav Khanna,Male,58,Ahmedabad,Gujarat,West,Silver
+CUST0669,Vivaan Khanna,Male,21,Mumbai,Maharashtra,West,Premium
+CUST0670,Karan Saini,Male,40,New Delhi,Delhi,North,Standard
+CUST0671,Meera Arora,Male,27,Ahmedabad,Gujarat,West,Premium
+CUST0672,Nikhil Sharma,Male,22,Pune,Maharashtra,West,Premium
+CUST0673,Rahul Kumar,Female,58,Bengaluru,Karnataka,South,Standard
+CUST0674,Diya Kapoor,Male,27,Ludhiana,Punjab,North,Silver
+CUST0675,Sneha Kumar,Male,27,Gurugram,Haryana,North,Silver
+CUST0676,Ananya Kapoor,Male,46,Hyderabad,Telangana,South,Premium
+CUST0677,Amit Malhotra,Female,36,New Delhi,Delhi,North,Silver
+CUST0678,Vivaan Khanna,Female,39,Patna,Bihar,East,Premium
+CUST0679,Nikhil Chopra,Female,65,Patna,Bihar,East,Silver
+CUST0680,Arjun Joshi,Female,46,Chennai,Tamil Nadu,South,Standard
+CUST0681,Nikhil Gupta,Female,39,Gurugram,Haryana,North,Premium
+CUST0682,Arjun Kumar,Male,62,Mumbai,Maharashtra,West,Standard
+CUST0683,Isha Verma,Female,26,Ludhiana,Punjab,North,Silver
+CUST0684,Nikhil Verma,Female,63,Ludhiana,Punjab,North,Standard
+CUST0685,Rohan Malhotra,Male,44,Ranchi,Jharkhand,East,Standard
+CUST0686,Meera Joshi,Male,42,Gurugram,Haryana,North,Standard
+CUST0687,Arjun Arora,Male,44,Patna,Bihar,East,Standard
+CUST0688,Riya Joshi,Female,59,Pune,Maharashtra,West,Silver
+CUST0689,Vikram Kapoor,Male,40,Kolkata,West Bengal,East,Standard
+CUST0690,Neha Saini,Male,63,New Delhi,Delhi,North,Standard
+CUST0691,Vivaan Bansal,Male,20,Ranchi,Jharkhand,East,Standard
+CUST0692,Ananya Kumar,Male,27,Ludhiana,Punjab,North,Gold
+CUST0693,Pooja Verma,Female,30,Patna,Bihar,East,Gold
+CUST0694,Nikhil Malhotra,Female,44,Gurugram,Haryana,North,Silver
+CUST0695,Priya Mehta,Male,23,Gurugram,Haryana,North,Gold
+CUST0696,Riya Sethi,Male,54,Jaipur,Rajasthan,West,Silver
+CUST0697,Vivaan Arora,Female,55,Pune,Maharashtra,West,Standard
+CUST0698,Kavya Sethi,Male,32,New Delhi,Delhi,North,Standard
+CUST0699,Ananya Mehta,Male,21,Amritsar,Punjab,North,Silver
+CUST0700,Ananya Malhotra,Male,45,Jaipur,Rajasthan,West,Standard
+CUST0701,Aditya Khanna,Male,18,Jaipur,Rajasthan,West,Premium
+CUST0702,Sneha Arora,Male,27,Mumbai,Maharashtra,West,Premium
+CUST0703,Karan Singh,Female,37,Amritsar,Punjab,North,Standard
+CUST0704,Rahul Sharma,Male,44,New Delhi,Delhi,North,Silver
+CUST0705,Meera Bansal,Female,63,Jaipur,Rajasthan,West,Premium
+CUST0706,Rahul Verma,Female,59,Ranchi,Jharkhand,East,Standard
+CUST0707,Aarav Sharma,Male,26,Ranchi,Jharkhand,East,Standard
+CUST0708,Aditya Kapoor,Male,22,Kolkata,West Bengal,East,Silver
+CUST0709,Diya Kapoor,Male,47,Ludhiana,Punjab,North,Standard
+CUST0710,Amit Arora,Male,40,Ahmedabad,Gujarat,West,Standard
+CUST0711,Meera Saini,Male,62,Bhubaneswar,Odisha,East,Standard
+CUST0712,Vivaan Gupta,Female,35,Pune,Maharashtra,West,Standard
+CUST0713,Aarav Khanna,Male,60,Ahmedabad,Gujarat,West,Gold
+CUST0714,Priya Mehta,Male,53,Gurugram,Haryana,North,Standard
+CUST0715,Ananya Khanna,Male,64,Hyderabad,Telangana,South,Standard
+CUST0716,Neha Khanna,Female,25,Gurugram,Haryana,North,Premium
+CUST0717,Neha Sharma,Male,36,Bengaluru,Karnataka,South,Silver
+CUST0718,Neha Mehta,Male,51,Pune,Maharashtra,West,Standard
+CUST0719,Aarav Kumar,Male,64,Ahmedabad,Gujarat,West,Standard
+CUST0720,Karan Bansal,Female,24,Ludhiana,Punjab,North,Standard
+CUST0721,Riya Singh,Male,56,Hyderabad,Telangana,South,Standard
+CUST0722,Riya Joshi,Male,20,Ludhiana,Punjab,North,Silver
+CUST0723,Ananya Mehta,Male,42,Mumbai,Maharashtra,West,Gold
+CUST0724,Aarav Arora,Female,33,Bengaluru,Karnataka,South,Standard
+CUST0725,Pooja Malhotra,Female,31,Kochi,Kerala,South,Silver
+CUST0726,Vivaan Chopra,Female,20,Gurugram,Haryana,North,Standard
+CUST0727,Vikram Kumar,Female,65,Bhubaneswar,Odisha,East,Standard
+CUST0728,Rohan Sethi,Male,57,Pune,Maharashtra,West,Premium
+CUST0729,Meera Chopra,Female,35,Kochi,Kerala,South,Standard
+CUST0730,Neha Verma,Female,59,Kolkata,West Bengal,East,Standard
+CUST0731,Aditya Malhotra,Female,57,Gurugram,Haryana,North,Standard
+CUST0732,Arjun Joshi,Male,28,Bhubaneswar,Odisha,East,Silver
+CUST0733,Ananya Kumar,Female,26,Chennai,Tamil Nadu,South,Standard
+CUST0734,Vivaan Arora,Male,65,Kochi,Kerala,South,Standard
+CUST0735,Amit Mehta,Male,65,Pune,Maharashtra,West,Gold
+CUST0736,Meera Sharma,Male,36,Jaipur,Rajasthan,West,Silver
+CUST0737,Karan Sethi,Male,45,Kolkata,West Bengal,East,Standard
+CUST0738,Riya Kapoor,Female,38,Hyderabad,Telangana,South,Silver
+CUST0739,Nikhil Gupta,Male,59,New Delhi,Delhi,North,Standard
+CUST0740,Isha Joshi,Male,25,Kolkata,West Bengal,East,Silver
+CUST0741,Vikram Arora,Male,47,Bengaluru,Karnataka,South,Gold
+CUST0742,Diya Joshi,Male,34,Hyderabad,Telangana,South,Silver
+CUST0743,Diya Singh,Female,35,Amritsar,Punjab,North,Premium
+CUST0744,Rohan Chopra,Male,55,Ludhiana,Punjab,North,Gold
+CUST0745,Aarav Khanna,Male,45,Kolkata,West Bengal,East,Silver
+CUST0746,Isha Joshi,Female,39,Bhubaneswar,Odisha,East,Standard
+CUST0747,Neha Saini,Female,40,Mumbai,Maharashtra,West,Premium
+CUST0748,Meera Mehta,Female,29,Pune,Maharashtra,West,Standard
+CUST0749,Aarav Gupta,Male,23,Pune,Maharashtra,West,Standard
+CUST0750,Aditya Saini,Female,63,Ranchi,Jharkhand,East,Silver
+CUST0751,Priya Joshi,Male,46,Ahmedabad,Gujarat,West,Standard
+CUST0752,Rohan Kumar,Female,28,Kolkata,West Bengal,East,Gold
+CUST0753,Rohan Joshi,Female,60,Kolkata,West Bengal,East,Premium
+CUST0754,Nikhil Singh,Female,52,Chennai,Tamil Nadu,South,Silver
+CUST0755,Isha Sharma,Female,28,Ranchi,Jharkhand,East,Standard
+CUST0756,Ananya Khanna,Male,65,Gurugram,Haryana,North,Standard
+CUST0757,Rohan Saini,Female,49,Ahmedabad,Gujarat,West,Standard
+CUST0758,Neha Joshi,Male,20,Jaipur,Rajasthan,West,Silver
+CUST0759,Nikhil Singh,Female,46,Mumbai,Maharashtra,West,Gold
+CUST0760,Vivaan Mehta,Male,42,Chennai,Tamil Nadu,South,Standard
+CUST0761,Ananya Khanna,Male,45,Gurugram,Haryana,North,Silver
+CUST0762,Rahul Singh,Male,21,Chennai,Tamil Nadu,South,Gold
+CUST0763,Meera Malhotra,Female,28,Hyderabad,Telangana,South,Premium
+CUST0764,Kavya Joshi,Female,35,Kolkata,West Bengal,East,Standard
+CUST0765,Diya Gupta,Male,42,Chennai,Tamil Nadu,South,Silver
+CUST0766,Pooja Sharma,Female,21,Hyderabad,Telangana,South,Standard
+CUST0767,Diya Malhotra,Male,64,Pune,Maharashtra,West,Silver
+CUST0768,Priya Kumar,Male,65,Bhubaneswar,Odisha,East,Standard
+CUST0769,Ananya Saini,Female,37,Chennai,Tamil Nadu,South,Premium
+CUST0770,Isha Arora,Female,55,Gurugram,Haryana,North,Silver
+CUST0771,Ananya Bansal,Male,60,Ahmedabad,Gujarat,West,Standard
+CUST0772,Vikram Mehta,Male,37,Pune,Maharashtra,West,Gold
+CUST0773,Priya Khanna,Female,33,Ranchi,Jharkhand,East,Gold
+CUST0774,Sneha Joshi,Female,41,Patna,Bihar,East,Gold
+CUST0775,Aditya Singh,Male,59,Bengaluru,Karnataka,South,Silver
+CUST0776,Vikram Saini,Female,47,Patna,Bihar,East,Standard
+CUST0777,Karan Gupta,Female,34,Kochi,Kerala,South,Gold
+CUST0778,Pooja Khanna,Male,24,Bhubaneswar,Odisha,East,Standard
+CUST0779,Meera Kumar,Male,27,Amritsar,Punjab,North,Standard
+CUST0780,Rahul Verma,Female,57,Patna,Bihar,East,Standard
+CUST0781,Vikram Joshi,Male,25,Kochi,Kerala,South,Standard
+CUST0782,Nikhil Kapoor,Male,53,Pune,Maharashtra,West,Silver
+CUST0783,Arjun Gupta,Male,21,Ranchi,Jharkhand,East,Standard
+CUST0784,Rohan Saini,Female,40,Ranchi,Jharkhand,East,Standard
+CUST0785,Ananya Sethi,Female,22,Patna,Bihar,East,Silver
+CUST0786,Vikram Khanna,Male,61,Hyderabad,Telangana,South,Standard
+CUST0787,Riya Sharma,Male,48,Bhubaneswar,Odisha,East,Standard
+CUST0788,Nikhil Gupta,Male,26,Jaipur,Rajasthan,West,Standard
+CUST0789,Sneha Kumar,Female,57,Bengaluru,Karnataka,South,Silver
+CUST0790,Neha Saini,Male,56,Hyderabad,Telangana,South,Silver
+CUST0791,Amit Bansal,Male,44,Ranchi,Jharkhand,East,Silver
+CUST0792,Sneha Chopra,Male,61,Kolkata,West Bengal,East,Silver
+CUST0793,Karan Chopra,Female,35,Kochi,Kerala,South,Standard
+CUST0794,Arjun Joshi,Female,57,Jaipur,Rajasthan,West,Standard
+CUST0795,Riya Gupta,Male,30,Ludhiana,Punjab,North,Silver
+CUST0796,Priya Saini,Male,56,Hyderabad,Telangana,South,Premium
+CUST0797,Rohan Saini,Female,45,Kolkata,West Bengal,East,Standard
+CUST0798,Aditya Arora,Male,33,Gurugram,Haryana,North,Standard
+CUST0799,Rohan Bansal,Female,23,Kolkata,West Bengal,East,Standard
+CUST0800,Nikhil Singh,Female,29,Gurugram,Haryana,North,Silver
+CUST0801,Rahul Khanna,Female,58,Patna,Bihar,East,Standard
+CUST0802,Meera Kapoor,Female,21,Mumbai,Maharashtra,West,Standard
+CUST0803,Nikhil Kumar,Male,30,Patna,Bihar,East,Standard
+CUST0804,Aarav Sharma,Male,34,New Delhi,Delhi,North,Standard
+CUST0805,Kavya Joshi,Male,63,Pune,Maharashtra,West,Silver
+CUST0806,Neha Joshi,Female,54,Chennai,Tamil Nadu,South,Silver
+CUST0807,Sneha Kapoor,Male,35,Bengaluru,Karnataka,South,Silver
+CUST0808,Karan Arora,Female,46,Bhubaneswar,Odisha,East,Silver
+CUST0809,Isha Joshi,Male,38,Amritsar,Punjab,North,Standard
+CUST0810,Vikram Singh,Female,26,Ludhiana,Punjab,North,Silver
+CUST0811,Meera Khanna,Female,26,Kochi,Kerala,South,Gold
+CUST0812,Diya Singh,Female,33,Ludhiana,Punjab,North,Standard
+CUST0813,Diya Sharma,Female,25,Patna,Bihar,East,Standard
+CUST0814,Diya Sharma,Female,59,Bhubaneswar,Odisha,East,Standard
+CUST0815,Karan Joshi,Female,50,Chennai,Tamil Nadu,South,Standard
+CUST0816,Vikram Kapoor,Female,39,Kolkata,West Bengal,East,Standard
+CUST0817,Isha Singh,Male,58,Mumbai,Maharashtra,West,Standard
+CUST0818,Ananya Bansal,Male,19,Gurugram,Haryana,North,Silver
+CUST0819,Karan Sethi,Female,23,Gurugram,Haryana,North,Silver
+CUST0820,Vivaan Malhotra,Female,21,Ahmedabad,Gujarat,West,Standard
+CUST0821,Ananya Verma,Female,49,Ludhiana,Punjab,North,Silver
+CUST0822,Priya Singh,Male,52,New Delhi,Delhi,North,Standard
+CUST0823,Aarav Mehta,Male,57,Pune,Maharashtra,West,Silver
+CUST0824,Vikram Bansal,Male,21,Kochi,Kerala,South,Standard
+CUST0825,Amit Saini,Male,29,Chennai,Tamil Nadu,South,Standard
+CUST0826,Priya Arora,Male,51,Jaipur,Rajasthan,West,Standard
+CUST0827,Nikhil Chopra,Female,57,Pune,Maharashtra,West,Silver
+CUST0828,Rahul Singh,Female,33,Gurugram,Haryana,North,Gold
+CUST0829,Diya Chopra,Female,43,Gurugram,Haryana,North,Silver
+CUST0830,Kavya Verma,Female,21,Jaipur,Rajasthan,West,Standard
+CUST0831,Sneha Sharma,Male,19,Jaipur,Rajasthan,West,Standard
+CUST0832,Meera Sharma,Female,38,Hyderabad,Telangana,South,Gold
+CUST0833,Meera Malhotra,Female,63,Ludhiana,Punjab,North,Silver
+CUST0834,Rahul Malhotra,Female,65,Bhubaneswar,Odisha,East,Standard
+CUST0835,Arjun Joshi,Female,45,Jaipur,Rajasthan,West,Gold
+CUST0836,Aditya Bansal,Male,42,Pune,Maharashtra,West,Premium
+CUST0837,Ananya Arora,Female,62,Pune,Maharashtra,West,Standard
+CUST0838,Isha Malhotra,Male,26,Mumbai,Maharashtra,West,Gold
+CUST0839,Aarav Bansal,Male,47,Amritsar,Punjab,North,Gold
+CUST0840,Diya Kapoor,Male,25,Kochi,Kerala,South,Standard
+CUST0841,Amit Kapoor,Female,38,Kolkata,West Bengal,East,Standard
+CUST0842,Meera Chopra,Female,39,Amritsar,Punjab,North,Standard
+CUST0843,Aarav Sharma,Male,59,Patna,Bihar,East,Standard
+CUST0844,Neha Sharma,Male,52,Mumbai,Maharashtra,West,Standard
+CUST0845,Neha Sharma,Male,43,Pune,Maharashtra,West,Standard
+CUST0846,Riya Khanna,Female,52,Ahmedabad,Gujarat,West,Standard
+CUST0847,Vikram Arora,Female,44,Patna,Bihar,East,Gold
+CUST0848,Aditya Sethi,Male,39,Patna,Bihar,East,Standard
+CUST0849,Vivaan Mehta,Female,43,Jaipur,Rajasthan,West,Standard
+CUST0850,Kavya Kumar,Male,31,Ahmedabad,Gujarat,West,Gold
+CUST0851,Diya Kapoor,Male,60,Jaipur,Rajasthan,West,Standard
+CUST0852,Riya Singh,Male,53,Gurugram,Haryana,North,Silver
+CUST0853,Sneha Sethi,Female,34,Hyderabad,Telangana,South,Gold
+CUST0854,Aarav Singh,Male,30,Amritsar,Punjab,North,Silver
+CUST0855,Priya Gupta,Male,64,Ranchi,Jharkhand,East,Standard
+CUST0856,Sneha Sethi,Female,21,Pune,Maharashtra,West,Standard
+CUST0857,Isha Kumar,Female,25,Kochi,Kerala,South,Silver
+CUST0858,Amit Kapoor,Male,25,Chennai,Tamil Nadu,South,Standard
+CUST0859,Pooja Kapoor,Female,33,Kochi,Kerala,South,Standard
+CUST0860,Rohan Kumar,Male,46,Hyderabad,Telangana,South,Standard
+CUST0861,Ananya Khanna,Male,22,Amritsar,Punjab,North,Standard
+CUST0862,Priya Sethi,Male,40,Pune,Maharashtra,West,Silver
+CUST0863,Kavya Saini,Male,49,Hyderabad,Telangana,South,Standard
+CUST0864,Meera Malhotra,Male,20,Hyderabad,Telangana,South,Gold
+CUST0865,Riya Verma,Male,34,Chennai,Tamil Nadu,South,Silver
+CUST0866,Rohan Singh,Female,37,Mumbai,Maharashtra,West,Standard
+CUST0867,Ananya Arora,Female,20,Jaipur,Rajasthan,West,Premium
+CUST0868,Priya Sharma,Male,58,Kochi,Kerala,South,Standard
+CUST0869,Pooja Arora,Male,64,Hyderabad,Telangana,South,Silver
+CUST0870,Vivaan Arora,Female,64,Jaipur,Rajasthan,West,Gold
+CUST0871,Nikhil Chopra,Female,47,Bhubaneswar,Odisha,East,Standard
+CUST0872,Priya Singh,Female,51,Bengaluru,Karnataka,South,Standard
+CUST0873,Ananya Gupta,Female,62,Chennai,Tamil Nadu,South,Standard
+CUST0874,Vivaan Sethi,Male,35,Ludhiana,Punjab,North,Standard
+CUST0875,Sneha Sharma,Male,52,Chennai,Tamil Nadu,South,Standard
+CUST0876,Sneha Malhotra,Female,60,Hyderabad,Telangana,South,Standard
+CUST0877,Nikhil Sethi,Male,21,Ranchi,Jharkhand,East,Premium
+CUST0878,Neha Saini,Female,64,Amritsar,Punjab,North,Silver
+CUST0879,Vikram Sethi,Male,60,Patna,Bihar,East,Gold
+CUST0880,Riya Bansal,Male,25,Kolkata,West Bengal,East,Premium
+CUST0881,Arjun Sethi,Male,64,Ranchi,Jharkhand,East,Gold
+CUST0882,Sneha Khanna,Female,62,Bhubaneswar,Odisha,East,Gold
+CUST0883,Rahul Arora,Male,53,Kolkata,West Bengal,East,Silver
+CUST0884,Pooja Arora,Female,54,New Delhi,Delhi,North,Gold
+CUST0885,Meera Chopra,Male,53,New Delhi,Delhi,North,Standard
+CUST0886,Sneha Kumar,Male,53,Ranchi,Jharkhand,East,Silver
+CUST0887,Vivaan Arora,Male,46,Gurugram,Haryana,North,Standard
+CUST0888,Meera Saini,Male,56,New Delhi,Delhi,North,Standard
+CUST0889,Rohan Verma,Female,37,Ahmedabad,Gujarat,West,Silver
+CUST0890,Kavya Kumar,Male,40,New Delhi,Delhi,North,Gold
+CUST0891,Arjun Arora,Female,30,Mumbai,Maharashtra,West,Premium
+CUST0892,Karan Verma,Female,47,Hyderabad,Telangana,South,Standard
+CUST0893,Pooja Saini,Male,19,Gurugram,Haryana,North,Standard
+CUST0894,Vivaan Kumar,Male,34,Hyderabad,Telangana,South,Silver
+CUST0895,Priya Kapoor,Female,60,Ranchi,Jharkhand,East,Standard
+CUST0896,Arjun Kapoor,Male,29,Chennai,Tamil Nadu,South,Standard
+CUST0897,Ananya Sethi,Male,64,Ludhiana,Punjab,North,Standard
+CUST0898,Karan Kumar,Female,21,Hyderabad,Telangana,South,Standard
+CUST0899,Ananya Bansal,Male,28,Hyderabad,Telangana,South,Gold
+CUST0900,Aditya Mehta,Female,19,Kochi,Kerala,South,Gold
+CUST0901,Meera Malhotra,Male,49,Amritsar,Punjab,North,Standard
+CUST0902,Nikhil Bansal,Male,58,Kochi,Kerala,South,Silver
+CUST0903,Rahul Malhotra,Male,39,Patna,Bihar,East,Standard
+CUST0904,Ananya Joshi,Female,51,Amritsar,Punjab,North,Standard
+CUST0905,Vivaan Sethi,Male,29,Bengaluru,Karnataka,South,Standard
+CUST0906,Vivaan Verma,Male,19,Hyderabad,Telangana,South,Standard
+CUST0907,Arjun Bansal,Male,19,Kochi,Kerala,South,Silver
+CUST0908,Vivaan Arora,Female,54,Bhubaneswar,Odisha,East,Silver
+CUST0909,Karan Bansal,Male,63,Kolkata,West Bengal,East,Standard
+CUST0910,Priya Kumar,Female,29,Amritsar,Punjab,North,Standard
+CUST0911,Arjun Arora,Male,31,Ahmedabad,Gujarat,West,Gold
+CUST0912,Arjun Bansal,Female,50,Kolkata,West Bengal,East,Gold
+CUST0913,Kavya Malhotra,Male,49,New Delhi,Delhi,North,Gold
+CUST0914,Rahul Verma,Male,31,Ranchi,Jharkhand,East,Standard
+CUST0915,Rohan Sethi,Male,62,Bhubaneswar,Odisha,East,Gold
+CUST0916,Karan Khanna,Male,61,Kolkata,West Bengal,East,Premium
+CUST0917,Neha Sethi,Female,62,Ahmedabad,Gujarat,West,Gold
+CUST0918,Vikram Joshi,Male,60,Jaipur,Rajasthan,West,Standard
+CUST0919,Aditya Sharma,Female,63,Patna,Bihar,East,Standard
+CUST0920,Vikram Arora,Female,52,Jaipur,Rajasthan,West,Gold
+CUST0921,Rohan Saini,Male,39,Kolkata,West Bengal,East,Silver
+CUST0922,Vikram Kapoor,Male,61,Mumbai,Maharashtra,West,Standard
+CUST0923,Karan Saini,Female,28,Chennai,Tamil Nadu,South,Silver
+CUST0924,Sneha Singh,Female,20,Hyderabad,Telangana,South,Gold
+CUST0925,Neha Sharma,Male,46,Hyderabad,Telangana,South,Gold
+CUST0926,Sneha Singh,Male,52,Pune,Maharashtra,West,Silver
+CUST0927,Diya Verma,Female,26,Kochi,Kerala,South,Gold
+CUST0928,Pooja Malhotra,Male,60,Gurugram,Haryana,North,Standard
+CUST0929,Meera Saini,Female,39,Kochi,Kerala,South,Standard
+CUST0930,Meera Bansal,Female,65,Pune,Maharashtra,West,Standard
+CUST0931,Ananya Arora,Male,37,Jaipur,Rajasthan,West,Silver
+CUST0932,Karan Singh,Female,48,Ranchi,Jharkhand,East,Standard
+CUST0933,Nikhil Joshi,Female,51,Chennai,Tamil Nadu,South,Silver
+CUST0934,Rohan Khanna,Female,59,Ranchi,Jharkhand,East,Standard
+CUST0935,Vikram Bansal,Female,64,Gurugram,Haryana,North,Standard
+CUST0936,Karan Arora,Female,29,Chennai,Tamil Nadu,South,Silver
+CUST0937,Diya Joshi,Female,54,Bhubaneswar,Odisha,East,Standard
+CUST0938,Sneha Chopra,Female,21,Pune,Maharashtra,West,Standard
+CUST0939,Karan Khanna,Male,45,Ludhiana,Punjab,North,Premium
+CUST0940,Isha Kapoor,Male,60,Jaipur,Rajasthan,West,Premium
+CUST0941,Pooja Sharma,Male,31,Hyderabad,Telangana,South,Standard
+CUST0942,Riya Singh,Male,47,Kochi,Kerala,South,Premium
+CUST0943,Neha Khanna,Female,55,Kolkata,West Bengal,East,Standard
+CUST0944,Meera Mehta,Male,40,Patna,Bihar,East,Standard
+CUST0945,Riya Kumar,Male,27,Jaipur,Rajasthan,West,Silver
+CUST0946,Sneha Arora,Male,44,Jaipur,Rajasthan,West,Standard
+CUST0947,Diya Gupta,Female,21,Ludhiana,Punjab,North,Gold
+CUST0948,Arjun Sharma,Male,26,Chennai,Tamil Nadu,South,Standard
+CUST0949,Pooja Verma,Male,60,Pune,Maharashtra,West,Silver
+CUST0950,Kavya Sethi,Male,33,Bhubaneswar,Odisha,East,Silver
+CUST0951,Arjun Gupta,Male,65,Chennai,Tamil Nadu,South,Standard
+CUST0952,Karan Chopra,Female,47,Ranchi,Jharkhand,East,Standard
+CUST0953,Diya Sethi,Female,35,Amritsar,Punjab,North,Standard
+CUST0954,Karan Arora,Male,43,Patna,Bihar,East,Premium
+CUST0955,Rohan Malhotra,Female,41,Kolkata,West Bengal,East,Standard
+CUST0956,Kavya Saini,Female,47,Mumbai,Maharashtra,West,Silver
+CUST0957,Nikhil Gupta,Female,47,Ludhiana,Punjab,North,Standard
+CUST0958,Diya Kapoor,Male,60,Bengaluru,Karnataka,South,Standard
+CUST0959,Vivaan Verma,Male,61,Patna,Bihar,East,Standard
+CUST0960,Karan Joshi,Male,55,Gurugram,Haryana,North,Standard
+CUST0961,Diya Joshi,Male,28,Ludhiana,Punjab,North,Gold
+CUST0962,Arjun Sharma,Male,41,Amritsar,Punjab,North,Silver
+CUST0963,Rohan Mehta,Female,38,Kochi,Kerala,South,Standard
+CUST0964,Priya Kapoor,Female,45,Ranchi,Jharkhand,East,Standard
+CUST0965,Amit Mehta,Male,49,Ludhiana,Punjab,North,Gold
+CUST0966,Nikhil Gupta,Male,27,Mumbai,Maharashtra,West,Silver
+CUST0967,Neha Kapoor,Male,64,Hyderabad,Telangana,South,Standard
+CUST0968,Neha Singh,Male,64,Hyderabad,Telangana,South,Gold
+CUST0969,Pooja Singh,Male,37,Kolkata,West Bengal,East,Silver
+CUST0970,Aditya Arora,Female,33,Gurugram,Haryana,North,Silver
+CUST0971,Amit Sethi,Male,24,Ranchi,Jharkhand,East,Standard
+CUST0972,Vivaan Chopra,Female,54,Ahmedabad,Gujarat,West,Silver
+CUST0973,Ananya Khanna,Male,42,Hyderabad,Telangana,South,Premium
+CUST0974,Riya Sethi,Male,65,Bengaluru,Karnataka,South,Silver
+CUST0975,Ananya Malhotra,Female,60,New Delhi,Delhi,North,Standard
+CUST0976,Isha Joshi,Female,35,Bhubaneswar,Odisha,East,Silver
+CUST0977,Pooja Bansal,Male,64,Patna,Bihar,East,Standard
+CUST0978,Meera Sethi,Male,63,Ranchi,Jharkhand,East,Premium
+CUST0979,Aditya Mehta,Female,33,Ranchi,Jharkhand,East,Premium
+CUST0980,Isha Arora,Male,37,Jaipur,Rajasthan,West,Standard
+CUST0981,Kavya Kumar,Female,62,Patna,Bihar,East,Silver
+CUST0982,Diya Saini,Male,64,Patna,Bihar,East,Standard
+CUST0983,Pooja Singh,Male,43,Chennai,Tamil Nadu,South,Gold
+CUST0984,Isha Sethi,Male,18,Ahmedabad,Gujarat,West,Standard
+CUST0985,Pooja Kumar,Female,45,Jaipur,Rajasthan,West,Standard
+CUST0986,Aarav Singh,Male,54,Chennai,Tamil Nadu,South,Silver
+CUST0987,Aditya Bansal,Male,30,Amritsar,Punjab,North,Silver
+CUST0988,Sneha Sethi,Female,62,Kochi,Kerala,South,Standard
+CUST0989,Vikram Gupta,Female,18,Kochi,Kerala,South,Standard
+CUST0990,Ananya Joshi,Male,47,Gurugram,Haryana,North,Premium
+CUST0991,Neha Sharma,Female,56,Amritsar,Punjab,North,Silver
+CUST0992,Diya Kumar,Male,64,Kolkata,West Bengal,East,Standard
+CUST0993,Karan Kumar,Male,44,Hyderabad,Telangana,South,Standard
+CUST0994,Isha Chopra,Female,43,Bengaluru,Karnataka,South,Silver
+CUST0995,Isha Sharma,Male,54,Kolkata,West Bengal,East,Premium
+CUST0996,Riya Sethi,Male,42,Kochi,Kerala,South,Standard
+CUST0997,Rohan Joshi,Male,55,Bengaluru,Karnataka,South,Standard
+CUST0998,Priya Kumar,Female,52,Chennai,Tamil Nadu,South,Standard
+CUST0999,Kavya Sharma,Male,41,Gurugram,Haryana,North,Silver
+CUST1000,Aarav Verma,Male,60,Bhubaneswar,Odisha,East,Silver

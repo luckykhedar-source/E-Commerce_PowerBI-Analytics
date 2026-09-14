@@ -1,0 +1,1001 @@
+ReturnID,OrderID,ReturnDate,ReturnReason,ReturnStatus
+RET0001,ORD04155,2025-07-17,Quality Issue,Returned
+RET0002,ORD01644,2025-06-29,Late Delivery,Returned
+RET0003,ORD02009,2025-08-27,Customer Changed Mind,Returned
+RET0004,ORD05305,2024-09-11,Late Delivery,Returned
+RET0005,ORD04161,2024-03-16,Damaged,Returned
+RET0006,ORD07429,2024-09-02,Damaged,Returned
+RET0007,ORD02550,2025-12-31,Late Delivery,Returned
+RET0008,ORD01338,2025-12-10,Customer Changed Mind,Returned
+RET0009,ORD03901,2025-08-19,Damaged,Returned
+RET0010,ORD00066,2025-03-17,Late Delivery,Returned
+RET0011,ORD08568,2025-06-07,Wrong Product,Returned
+RET0012,ORD09881,2024-03-26,Quality Issue,Returned
+RET0013,ORD09391,2024-10-06,Late Delivery,Returned
+RET0014,ORD06616,2024-05-02,Damaged,Returned
+RET0015,ORD02992,2025-10-12,Late Delivery,Returned
+RET0016,ORD09650,2024-01-26,Customer Changed Mind,Returned
+RET0017,ORD04464,2024-08-21,Damaged,Returned
+RET0018,ORD01120,2024-01-25,Customer Changed Mind,Returned
+RET0019,ORD01353,2024-01-07,Customer Changed Mind,Returned
+RET0020,ORD04670,2025-12-25,Customer Changed Mind,Returned
+RET0021,ORD06958,2024-05-30,Late Delivery,Returned
+RET0022,ORD03680,2025-12-06,Damaged,Returned
+RET0023,ORD07042,2024-03-19,Customer Changed Mind,Returned
+RET0024,ORD03181,2024-11-05,Wrong Product,Returned
+RET0025,ORD04981,2024-07-25,Quality Issue,Returned
+RET0026,ORD02777,2024-01-08,Late Delivery,Returned
+RET0027,ORD06659,2025-08-27,Wrong Product,Returned
+RET0028,ORD07830,2024-08-29,Damaged,Returned
+RET0029,ORD01278,2025-06-16,Quality Issue,Returned
+RET0030,ORD03313,2025-11-25,Customer Changed Mind,Returned
+RET0031,ORD06228,2025-02-26,Wrong Product,Returned
+RET0032,ORD07960,2024-05-10,Wrong Product,Returned
+RET0033,ORD08290,2025-01-13,Customer Changed Mind,Returned
+RET0034,ORD06453,2024-05-19,Customer Changed Mind,Returned
+RET0035,ORD06603,2024-06-29,Wrong Product,Returned
+RET0036,ORD07336,2025-06-19,Damaged,Returned
+RET0037,ORD06560,2024-10-24,Late Delivery,Returned
+RET0038,ORD08127,2025-10-13,Damaged,Returned
+RET0039,ORD01119,2024-06-16,Damaged,Returned
+RET0040,ORD05012,2024-09-27,Late Delivery,Returned
+RET0041,ORD02863,2025-12-12,Damaged,Returned
+RET0042,ORD06921,2025-10-28,Quality Issue,Returned
+RET0043,ORD00855,2025-04-08,Customer Changed Mind,Returned
+RET0044,ORD08496,2024-07-21,Wrong Product,Returned
+RET0045,ORD09978,2025-08-17,Late Delivery,Returned
+RET0046,ORD00002,2025-02-17,Damaged,Returned
+RET0047,ORD01703,2024-05-06,Wrong Product,Returned
+RET0048,ORD03737,2025-08-27,Quality Issue,Returned
+RET0049,ORD00739,2025-01-13,Damaged,Returned
+RET0050,ORD07519,2025-07-05,Damaged,Returned
+RET0051,ORD04730,2024-07-21,Damaged,Returned
+RET0052,ORD07629,2024-12-09,Quality Issue,Returned
+RET0053,ORD04160,2024-04-15,Customer Changed Mind,Returned
+RET0054,ORD03316,2024-09-16,Wrong Product,Returned
+RET0055,ORD03471,2024-05-11,Damaged,Returned
+RET0056,ORD04613,2025-06-25,Damaged,Returned
+RET0057,ORD03553,2024-09-22,Quality Issue,Returned
+RET0058,ORD01561,2024-04-03,Quality Issue,Returned
+RET0059,ORD08636,2025-02-15,Wrong Product,Returned
+RET0060,ORD05538,2025-04-11,Wrong Product,Returned
+RET0061,ORD00945,2024-04-05,Damaged,Returned
+RET0062,ORD06204,2025-05-14,Damaged,Returned
+RET0063,ORD02915,2025-11-11,Damaged,Returned
+RET0064,ORD09043,2024-02-15,Damaged,Returned
+RET0065,ORD01694,2025-05-18,Damaged,Returned
+RET0066,ORD06173,2024-12-12,Quality Issue,Returned
+RET0067,ORD06597,2025-03-30,Customer Changed Mind,Returned
+RET0068,ORD06493,2025-07-08,Wrong Product,Returned
+RET0069,ORD07354,2025-08-02,Quality Issue,Returned
+RET0070,ORD03990,2025-05-15,Late Delivery,Returned
+RET0071,ORD03972,2024-12-07,Late Delivery,Returned
+RET0072,ORD05746,2025-10-16,Late Delivery,Returned
+RET0073,ORD07390,2024-10-06,Wrong Product,Returned
+RET0074,ORD06798,2025-08-20,Damaged,Returned
+RET0075,ORD04642,2024-07-06,Late Delivery,Returned
+RET0076,ORD02611,2025-06-20,Late Delivery,Returned
+RET0077,ORD04688,2024-09-14,Customer Changed Mind,Returned
+RET0078,ORD03362,2025-08-27,Quality Issue,Returned
+RET0079,ORD02664,2025-12-08,Wrong Product,Returned
+RET0080,ORD06119,2024-09-09,Wrong Product,Returned
+RET0081,ORD01404,2024-09-24,Customer Changed Mind,Returned
+RET0082,ORD00012,2024-07-01,Late Delivery,Returned
+RET0083,ORD04332,2025-12-07,Customer Changed Mind,Returned
+RET0084,ORD01794,2024-09-11,Damaged,Returned
+RET0085,ORD09152,2025-08-01,Late Delivery,Returned
+RET0086,ORD09919,2024-05-05,Wrong Product,Returned
+RET0087,ORD02171,2025-02-09,Quality Issue,Returned
+RET0088,ORD01970,2024-04-22,Customer Changed Mind,Returned
+RET0089,ORD03034,2024-09-27,Customer Changed Mind,Returned
+RET0090,ORD02508,2025-05-25,Wrong Product,Returned
+RET0091,ORD04007,2025-09-16,Late Delivery,Returned
+RET0092,ORD02874,2024-09-29,Late Delivery,Returned
+RET0093,ORD07909,2024-04-17,Late Delivery,Returned
+RET0094,ORD01980,2024-01-15,Quality Issue,Returned
+RET0095,ORD06110,2025-03-06,Quality Issue,Returned
+RET0096,ORD06596,2025-03-01,Late Delivery,Returned
+RET0097,ORD04402,2024-03-04,Quality Issue,Returned
+RET0098,ORD03147,2024-08-27,Customer Changed Mind,Returned
+RET0099,ORD02849,2025-07-20,Late Delivery,Returned
+RET0100,ORD09022,2025-03-06,Quality Issue,Returned
+RET0101,ORD06564,2024-03-02,Customer Changed Mind,Returned
+RET0102,ORD05325,2024-08-06,Customer Changed Mind,Returned
+RET0103,ORD00044,2025-06-23,Quality Issue,Returned
+RET0104,ORD08475,2025-10-19,Late Delivery,Returned
+RET0105,ORD09447,2025-08-07,Late Delivery,Returned
+RET0106,ORD00535,2025-10-12,Quality Issue,Returned
+RET0107,ORD03875,2025-10-02,Quality Issue,Returned
+RET0108,ORD01746,2024-02-06,Damaged,Returned
+RET0109,ORD06817,2024-05-15,Customer Changed Mind,Returned
+RET0110,ORD00546,2024-07-30,Late Delivery,Returned
+RET0111,ORD07534,2025-04-20,Wrong Product,Returned
+RET0112,ORD06025,2025-03-20,Customer Changed Mind,Returned
+RET0113,ORD01047,2024-05-20,Late Delivery,Returned
+RET0114,ORD09514,2024-10-12,Damaged,Returned
+RET0115,ORD07218,2025-11-22,Customer Changed Mind,Returned
+RET0116,ORD05659,2024-01-08,Customer Changed Mind,Returned
+RET0117,ORD09253,2024-05-21,Late Delivery,Returned
+RET0118,ORD06978,2025-12-29,Wrong Product,Returned
+RET0119,ORD08990,2025-07-02,Quality Issue,Returned
+RET0120,ORD06141,2025-10-10,Wrong Product,Returned
+RET0121,ORD02187,2024-04-21,Damaged,Returned
+RET0122,ORD05359,2024-07-01,Customer Changed Mind,Returned
+RET0123,ORD07337,2025-02-11,Late Delivery,Returned
+RET0124,ORD02431,2024-09-11,Customer Changed Mind,Returned
+RET0125,ORD08227,2024-10-03,Quality Issue,Returned
+RET0126,ORD05324,2024-10-05,Wrong Product,Returned
+RET0127,ORD04869,2024-03-22,Wrong Product,Returned
+RET0128,ORD07379,2024-03-10,Damaged,Returned
+RET0129,ORD08512,2024-04-05,Late Delivery,Returned
+RET0130,ORD08788,2024-06-19,Quality Issue,Returned
+RET0131,ORD08126,2025-10-09,Quality Issue,Returned
+RET0132,ORD03832,2025-01-03,Late Delivery,Returned
+RET0133,ORD09145,2024-08-20,Damaged,Returned
+RET0134,ORD01288,2024-11-20,Quality Issue,Returned
+RET0135,ORD03798,2025-10-11,Damaged,Returned
+RET0136,ORD00460,2024-04-01,Late Delivery,Returned
+RET0137,ORD01250,2025-12-16,Late Delivery,Returned
+RET0138,ORD09416,2025-01-10,Late Delivery,Returned
+RET0139,ORD04258,2025-05-07,Quality Issue,Returned
+RET0140,ORD05594,2024-02-24,Late Delivery,Returned
+RET0141,ORD04392,2024-08-31,Quality Issue,Returned
+RET0142,ORD06295,2025-03-24,Damaged,Returned
+RET0143,ORD00941,2025-12-29,Customer Changed Mind,Returned
+RET0144,ORD08295,2024-03-28,Damaged,Returned
+RET0145,ORD06579,2024-06-02,Quality Issue,Returned
+RET0146,ORD07411,2025-04-30,Wrong Product,Returned
+RET0147,ORD07876,2024-01-09,Wrong Product,Returned
+RET0148,ORD09206,2025-02-03,Customer Changed Mind,Returned
+RET0149,ORD06388,2025-09-02,Late Delivery,Returned
+RET0150,ORD03412,2025-03-15,Damaged,Returned
+RET0151,ORD00352,2025-01-03,Damaged,Returned
+RET0152,ORD08471,2024-08-29,Quality Issue,Returned
+RET0153,ORD06818,2024-03-15,Customer Changed Mind,Returned
+RET0154,ORD09031,2025-09-05,Late Delivery,Returned
+RET0155,ORD02839,2025-02-02,Customer Changed Mind,Returned
+RET0156,ORD06360,2025-11-07,Wrong Product,Returned
+RET0157,ORD04166,2025-10-09,Customer Changed Mind,Returned
+RET0158,ORD01967,2025-12-20,Late Delivery,Returned
+RET0159,ORD09265,2024-09-22,Late Delivery,Returned
+RET0160,ORD01184,2025-08-16,Damaged,Returned
+RET0161,ORD08697,2025-06-26,Damaged,Returned
+RET0162,ORD02865,2025-01-09,Late Delivery,Returned
+RET0163,ORD02661,2025-09-22,Damaged,Returned
+RET0164,ORD03161,2025-08-15,Damaged,Returned
+RET0165,ORD05514,2024-08-06,Damaged,Returned
+RET0166,ORD04213,2025-08-03,Late Delivery,Returned
+RET0167,ORD06854,2024-03-27,Damaged,Returned
+RET0168,ORD06813,2024-06-06,Wrong Product,Returned
+RET0169,ORD05533,2025-06-04,Late Delivery,Returned
+RET0170,ORD08241,2025-02-14,Customer Changed Mind,Returned
+RET0171,ORD02963,2024-08-12,Quality Issue,Returned
+RET0172,ORD00284,2025-03-07,Quality Issue,Returned
+RET0173,ORD07186,2025-11-20,Wrong Product,Returned
+RET0174,ORD01913,2025-02-13,Late Delivery,Returned
+RET0175,ORD03456,2024-05-26,Customer Changed Mind,Returned
+RET0176,ORD02251,2024-08-28,Late Delivery,Returned
+RET0177,ORD04630,2025-06-12,Customer Changed Mind,Returned
+RET0178,ORD07758,2025-08-11,Customer Changed Mind,Returned
+RET0179,ORD02744,2025-11-27,Late Delivery,Returned
+RET0180,ORD08153,2025-05-23,Damaged,Returned
+RET0181,ORD08861,2025-10-06,Quality Issue,Returned
+RET0182,ORD03749,2025-11-11,Damaged,Returned
+RET0183,ORD04548,2025-05-22,Quality Issue,Returned
+RET0184,ORD01376,2024-12-24,Damaged,Returned
+RET0185,ORD03296,2024-01-18,Late Delivery,Returned
+RET0186,ORD04041,2024-10-01,Late Delivery,Returned
+RET0187,ORD04929,2025-07-30,Customer Changed Mind,Returned
+RET0188,ORD08371,2025-02-19,Wrong Product,Returned
+RET0189,ORD09686,2024-06-20,Late Delivery,Returned
+RET0190,ORD01990,2024-10-04,Quality Issue,Returned
+RET0191,ORD01655,2024-02-14,Customer Changed Mind,Returned
+RET0192,ORD09215,2024-06-18,Quality Issue,Returned
+RET0193,ORD01103,2024-11-13,Damaged,Returned
+RET0194,ORD08330,2024-05-29,Wrong Product,Returned
+RET0195,ORD08852,2024-12-31,Late Delivery,Returned
+RET0196,ORD09462,2024-10-15,Damaged,Returned
+RET0197,ORD03588,2025-08-10,Customer Changed Mind,Returned
+RET0198,ORD03306,2024-02-15,Quality Issue,Returned
+RET0199,ORD03708,2025-02-03,Wrong Product,Returned
+RET0200,ORD04196,2024-08-21,Late Delivery,Returned
+RET0201,ORD07230,2024-11-05,Quality Issue,Returned
+RET0202,ORD00107,2025-11-22,Late Delivery,Returned
+RET0203,ORD04042,2025-10-07,Late Delivery,Returned
+RET0204,ORD02284,2024-10-02,Quality Issue,Returned
+RET0205,ORD06546,2024-01-21,Late Delivery,Returned
+RET0206,ORD07046,2025-05-01,Customer Changed Mind,Returned
+RET0207,ORD09450,2025-10-02,Wrong Product,Returned
+RET0208,ORD06210,2024-09-10,Damaged,Returned
+RET0209,ORD07093,2025-08-15,Wrong Product,Returned
+RET0210,ORD00786,2024-03-19,Damaged,Returned
+RET0211,ORD01112,2024-11-13,Customer Changed Mind,Returned
+RET0212,ORD04230,2025-04-29,Wrong Product,Returned
+RET0213,ORD01492,2024-07-26,Customer Changed Mind,Returned
+RET0214,ORD06239,2025-10-28,Quality Issue,Returned
+RET0215,ORD05279,2024-09-10,Damaged,Returned
+RET0216,ORD03005,2024-03-21,Quality Issue,Returned
+RET0217,ORD06535,2025-08-02,Quality Issue,Returned
+RET0218,ORD05161,2024-12-20,Wrong Product,Returned
+RET0219,ORD00667,2024-04-15,Late Delivery,Returned
+RET0220,ORD03649,2025-12-30,Late Delivery,Returned
+RET0221,ORD07931,2024-12-30,Customer Changed Mind,Returned
+RET0222,ORD08596,2024-12-01,Wrong Product,Returned
+RET0223,ORD09060,2025-01-13,Quality Issue,Returned
+RET0224,ORD03294,2025-12-02,Customer Changed Mind,Returned
+RET0225,ORD04502,2025-10-11,Quality Issue,Returned
+RET0226,ORD08383,2025-01-03,Customer Changed Mind,Returned
+RET0227,ORD04640,2024-10-18,Damaged,Returned
+RET0228,ORD05478,2025-05-01,Customer Changed Mind,Returned
+RET0229,ORD02643,2024-07-05,Customer Changed Mind,Returned
+RET0230,ORD06081,2025-10-31,Quality Issue,Returned
+RET0231,ORD03909,2025-05-26,Late Delivery,Returned
+RET0232,ORD06280,2024-06-09,Quality Issue,Returned
+RET0233,ORD08574,2025-11-22,Wrong Product,Returned
+RET0234,ORD07894,2024-03-04,Quality Issue,Returned
+RET0235,ORD06524,2024-04-30,Late Delivery,Returned
+RET0236,ORD09691,2025-04-22,Wrong Product,Returned
+RET0237,ORD03668,2025-12-31,Late Delivery,Returned
+RET0238,ORD05807,2025-01-15,Wrong Product,Returned
+RET0239,ORD05943,2024-02-16,Quality Issue,Returned
+RET0240,ORD00972,2025-10-07,Late Delivery,Returned
+RET0241,ORD06983,2024-05-11,Late Delivery,Returned
+RET0242,ORD01618,2024-07-03,Damaged,Returned
+RET0243,ORD05929,2024-12-31,Damaged,Returned
+RET0244,ORD07234,2024-08-20,Customer Changed Mind,Returned
+RET0245,ORD09015,2025-04-16,Damaged,Returned
+RET0246,ORD04146,2025-09-22,Late Delivery,Returned
+RET0247,ORD09311,2025-03-09,Customer Changed Mind,Returned
+RET0248,ORD00789,2024-01-20,Quality Issue,Returned
+RET0249,ORD05819,2025-02-19,Customer Changed Mind,Returned
+RET0250,ORD05282,2025-11-25,Wrong Product,Returned
+RET0251,ORD07592,2025-02-08,Customer Changed Mind,Returned
+RET0252,ORD07716,2025-09-26,Damaged,Returned
+RET0253,ORD05976,2024-07-18,Quality Issue,Returned
+RET0254,ORD03218,2024-01-19,Wrong Product,Returned
+RET0255,ORD09606,2024-01-09,Customer Changed Mind,Returned
+RET0256,ORD06055,2025-07-25,Quality Issue,Returned
+RET0257,ORD09676,2024-08-07,Damaged,Returned
+RET0258,ORD08569,2025-09-27,Quality Issue,Returned
+RET0259,ORD02244,2024-07-20,Quality Issue,Returned
+RET0260,ORD07794,2024-01-22,Wrong Product,Returned
+RET0261,ORD01285,2024-12-17,Late Delivery,Returned
+RET0262,ORD02536,2024-01-11,Damaged,Returned
+RET0263,ORD05346,2025-08-28,Wrong Product,Returned
+RET0264,ORD07364,2024-06-18,Wrong Product,Returned
+RET0265,ORD04503,2025-04-11,Wrong Product,Returned
+RET0266,ORD08616,2024-04-20,Late Delivery,Returned
+RET0267,ORD09310,2025-09-06,Late Delivery,Returned
+RET0268,ORD06602,2024-09-05,Customer Changed Mind,Returned
+RET0269,ORD05601,2024-01-25,Customer Changed Mind,Returned
+RET0270,ORD04626,2024-12-27,Damaged,Returned
+RET0271,ORD06302,2025-09-12,Damaged,Returned
+RET0272,ORD09110,2024-09-11,Late Delivery,Returned
+RET0273,ORD09172,2025-06-09,Late Delivery,Returned
+RET0274,ORD06150,2024-05-10,Late Delivery,Returned
+RET0275,ORD08964,2025-06-30,Wrong Product,Returned
+RET0276,ORD07216,2024-09-01,Late Delivery,Returned
+RET0277,ORD00025,2024-12-02,Wrong Product,Returned
+RET0278,ORD06492,2025-10-24,Wrong Product,Returned
+RET0279,ORD06623,2025-06-27,Damaged,Returned
+RET0280,ORD02313,2025-05-22,Quality Issue,Returned
+RET0281,ORD02331,2025-11-07,Customer Changed Mind,Returned
+RET0282,ORD02311,2025-07-22,Customer Changed Mind,Returned
+RET0283,ORD06226,2024-12-18,Damaged,Returned
+RET0284,ORD00375,2025-01-06,Damaged,Returned
+RET0285,ORD09436,2024-09-29,Late Delivery,Returned
+RET0286,ORD03702,2024-11-25,Late Delivery,Returned
+RET0287,ORD02531,2024-10-11,Late Delivery,Returned
+RET0288,ORD06249,2025-02-17,Wrong Product,Returned
+RET0289,ORD09507,2024-03-08,Wrong Product,Returned
+RET0290,ORD06574,2024-12-13,Late Delivery,Returned
+RET0291,ORD09421,2025-04-25,Wrong Product,Returned
+RET0292,ORD03729,2024-09-04,Damaged,Returned
+RET0293,ORD09671,2024-07-31,Late Delivery,Returned
+RET0294,ORD00461,2024-12-28,Customer Changed Mind,Returned
+RET0295,ORD02924,2025-10-25,Customer Changed Mind,Returned
+RET0296,ORD05563,2025-06-14,Wrong Product,Returned
+RET0297,ORD04404,2024-11-02,Customer Changed Mind,Returned
+RET0298,ORD05138,2025-01-21,Late Delivery,Returned
+RET0299,ORD04250,2024-11-21,Customer Changed Mind,Returned
+RET0300,ORD07775,2025-09-18,Damaged,Returned
+RET0301,ORD07452,2025-12-23,Wrong Product,Returned
+RET0302,ORD09516,2024-09-05,Customer Changed Mind,Returned
+RET0303,ORD06006,2024-02-23,Wrong Product,Returned
+RET0304,ORD02636,2025-03-27,Damaged,Returned
+RET0305,ORD00886,2024-10-18,Customer Changed Mind,Returned
+RET0306,ORD03750,2024-10-14,Late Delivery,Returned
+RET0307,ORD02261,2025-08-22,Quality Issue,Returned
+RET0308,ORD01467,2025-09-11,Customer Changed Mind,Returned
+RET0309,ORD01320,2025-11-17,Damaged,Returned
+RET0310,ORD07665,2025-10-25,Quality Issue,Returned
+RET0311,ORD01270,2025-03-22,Customer Changed Mind,Returned
+RET0312,ORD02689,2024-05-20,Wrong Product,Returned
+RET0313,ORD00142,2025-05-06,Damaged,Returned
+RET0314,ORD06098,2024-01-29,Customer Changed Mind,Returned
+RET0315,ORD05823,2024-05-23,Damaged,Returned
+RET0316,ORD09622,2024-12-05,Late Delivery,Returned
+RET0317,ORD05971,2025-05-05,Quality Issue,Returned
+RET0318,ORD03497,2025-10-28,Quality Issue,Returned
+RET0319,ORD08626,2024-04-14,Late Delivery,Returned
+RET0320,ORD04314,2025-06-14,Quality Issue,Returned
+RET0321,ORD01511,2024-02-12,Quality Issue,Returned
+RET0322,ORD07013,2025-10-14,Late Delivery,Returned
+RET0323,ORD02428,2025-05-27,Wrong Product,Returned
+RET0324,ORD02015,2024-12-13,Quality Issue,Returned
+RET0325,ORD06688,2025-04-24,Wrong Product,Returned
+RET0326,ORD03894,2024-07-23,Damaged,Returned
+RET0327,ORD02097,2024-07-19,Damaged,Returned
+RET0328,ORD03126,2024-06-28,Quality Issue,Returned
+RET0329,ORD02667,2024-11-28,Damaged,Returned
+RET0330,ORD00542,2024-10-21,Late Delivery,Returned
+RET0331,ORD01556,2024-03-03,Quality Issue,Returned
+RET0332,ORD09893,2024-06-04,Late Delivery,Returned
+RET0333,ORD04486,2024-09-17,Wrong Product,Returned
+RET0334,ORD08155,2024-11-21,Customer Changed Mind,Returned
+RET0335,ORD07986,2024-03-01,Customer Changed Mind,Returned
+RET0336,ORD07559,2024-02-22,Quality Issue,Returned
+RET0337,ORD00343,2025-08-28,Late Delivery,Returned
+RET0338,ORD07368,2024-09-02,Customer Changed Mind,Returned
+RET0339,ORD07185,2025-10-29,Quality Issue,Returned
+RET0340,ORD08829,2025-10-29,Customer Changed Mind,Returned
+RET0341,ORD09787,2025-07-31,Customer Changed Mind,Returned
+RET0342,ORD09449,2024-07-12,Damaged,Returned
+RET0343,ORD02587,2025-02-07,Quality Issue,Returned
+RET0344,ORD01965,2024-02-20,Customer Changed Mind,Returned
+RET0345,ORD07372,2025-08-15,Quality Issue,Returned
+RET0346,ORD08108,2025-06-17,Damaged,Returned
+RET0347,ORD04394,2025-07-05,Quality Issue,Returned
+RET0348,ORD03608,2024-06-01,Damaged,Returned
+RET0349,ORD05280,2024-07-25,Customer Changed Mind,Returned
+RET0350,ORD00981,2025-06-22,Customer Changed Mind,Returned
+RET0351,ORD00212,2025-05-10,Customer Changed Mind,Returned
+RET0352,ORD06378,2024-10-10,Damaged,Returned
+RET0353,ORD04647,2024-09-03,Wrong Product,Returned
+RET0354,ORD06067,2024-10-30,Damaged,Returned
+RET0355,ORD07693,2024-01-27,Damaged,Returned
+RET0356,ORD02682,2025-07-11,Late Delivery,Returned
+RET0357,ORD02074,2025-04-16,Customer Changed Mind,Returned
+RET0358,ORD00903,2024-07-03,Customer Changed Mind,Returned
+RET0359,ORD07891,2025-01-10,Late Delivery,Returned
+RET0360,ORD04092,2025-11-06,Wrong Product,Returned
+RET0361,ORD03139,2024-12-02,Quality Issue,Returned
+RET0362,ORD05648,2024-08-22,Customer Changed Mind,Returned
+RET0363,ORD00966,2024-08-15,Customer Changed Mind,Returned
+RET0364,ORD00291,2025-01-30,Damaged,Returned
+RET0365,ORD04962,2024-11-25,Wrong Product,Returned
+RET0366,ORD07899,2024-09-15,Wrong Product,Returned
+RET0367,ORD08123,2024-01-09,Wrong Product,Returned
+RET0368,ORD09147,2025-10-13,Wrong Product,Returned
+RET0369,ORD06918,2025-09-02,Late Delivery,Returned
+RET0370,ORD06357,2024-05-05,Damaged,Returned
+RET0371,ORD01060,2024-05-19,Late Delivery,Returned
+RET0372,ORD05867,2024-01-02,Late Delivery,Returned
+RET0373,ORD03277,2024-04-06,Quality Issue,Returned
+RET0374,ORD04882,2024-07-09,Damaged,Returned
+RET0375,ORD05553,2024-01-23,Wrong Product,Returned
+RET0376,ORD07627,2025-05-02,Damaged,Returned
+RET0377,ORD06000,2024-09-12,Wrong Product,Returned
+RET0378,ORD05447,2025-07-26,Quality Issue,Returned
+RET0379,ORD09752,2025-04-10,Customer Changed Mind,Returned
+RET0380,ORD06190,2024-12-21,Late Delivery,Returned
+RET0381,ORD07300,2024-08-12,Quality Issue,Returned
+RET0382,ORD08622,2025-05-30,Late Delivery,Returned
+RET0383,ORD02463,2024-10-27,Wrong Product,Returned
+RET0384,ORD09801,2024-06-01,Wrong Product,Returned
+RET0385,ORD08734,2024-08-16,Quality Issue,Returned
+RET0386,ORD09404,2024-04-02,Customer Changed Mind,Returned
+RET0387,ORD01298,2025-06-11,Customer Changed Mind,Returned
+RET0388,ORD01039,2024-03-26,Late Delivery,Returned
+RET0389,ORD03715,2024-11-13,Wrong Product,Returned
+RET0390,ORD00323,2024-10-02,Wrong Product,Returned
+RET0391,ORD02903,2024-04-02,Customer Changed Mind,Returned
+RET0392,ORD06089,2025-06-07,Wrong Product,Returned
+RET0393,ORD04968,2025-03-10,Wrong Product,Returned
+RET0394,ORD09365,2025-03-12,Quality Issue,Returned
+RET0395,ORD07771,2024-04-28,Customer Changed Mind,Returned
+RET0396,ORD07841,2024-03-23,Customer Changed Mind,Returned
+RET0397,ORD08880,2024-07-15,Damaged,Returned
+RET0398,ORD03095,2024-11-29,Customer Changed Mind,Returned
+RET0399,ORD09186,2024-06-10,Customer Changed Mind,Returned
+RET0400,ORD07122,2024-03-28,Damaged,Returned
+RET0401,ORD00139,2025-04-08,Wrong Product,Returned
+RET0402,ORD03094,2024-05-04,Wrong Product,Returned
+RET0403,ORD08236,2024-07-29,Late Delivery,Returned
+RET0404,ORD00803,2025-02-16,Wrong Product,Returned
+RET0405,ORD01778,2024-02-27,Customer Changed Mind,Returned
+RET0406,ORD03010,2025-10-13,Late Delivery,Returned
+RET0407,ORD01180,2025-07-08,Late Delivery,Returned
+RET0408,ORD03224,2024-12-10,Wrong Product,Returned
+RET0409,ORD08246,2024-08-21,Late Delivery,Returned
+RET0410,ORD01808,2024-03-14,Damaged,Returned
+RET0411,ORD06354,2024-02-16,Late Delivery,Returned
+RET0412,ORD07977,2024-05-10,Quality Issue,Returned
+RET0413,ORD04519,2025-08-18,Damaged,Returned
+RET0414,ORD02041,2025-04-27,Customer Changed Mind,Returned
+RET0415,ORD01627,2024-10-08,Wrong Product,Returned
+RET0416,ORD06051,2024-11-12,Wrong Product,Returned
+RET0417,ORD03346,2025-03-21,Quality Issue,Returned
+RET0418,ORD05757,2024-09-01,Wrong Product,Returned
+RET0419,ORD00128,2024-06-17,Customer Changed Mind,Returned
+RET0420,ORD04683,2025-11-20,Late Delivery,Returned
+RET0421,ORD01539,2025-05-16,Wrong Product,Returned
+RET0422,ORD02604,2025-06-30,Customer Changed Mind,Returned
+RET0423,ORD03239,2025-04-04,Damaged,Returned
+RET0424,ORD05978,2025-06-15,Customer Changed Mind,Returned
+RET0425,ORD00690,2024-08-31,Quality Issue,Returned
+RET0426,ORD03975,2024-06-21,Customer Changed Mind,Returned
+RET0427,ORD01572,2024-05-23,Wrong Product,Returned
+RET0428,ORD02392,2025-07-22,Late Delivery,Returned
+RET0429,ORD06592,2024-12-28,Customer Changed Mind,Returned
+RET0430,ORD04316,2024-08-16,Quality Issue,Returned
+RET0431,ORD03446,2024-10-20,Damaged,Returned
+RET0432,ORD09013,2024-06-28,Quality Issue,Returned
+RET0433,ORD02627,2024-08-04,Damaged,Returned
+RET0434,ORD00485,2024-10-28,Customer Changed Mind,Returned
+RET0435,ORD06962,2024-05-18,Late Delivery,Returned
+RET0436,ORD00814,2025-07-21,Quality Issue,Returned
+RET0437,ORD05040,2024-09-03,Late Delivery,Returned
+RET0438,ORD09402,2025-03-03,Customer Changed Mind,Returned
+RET0439,ORD01241,2024-06-22,Late Delivery,Returned
+RET0440,ORD03392,2025-03-15,Late Delivery,Returned
+RET0441,ORD09918,2025-06-30,Quality Issue,Returned
+RET0442,ORD08963,2024-07-02,Customer Changed Mind,Returned
+RET0443,ORD06684,2024-08-01,Late Delivery,Returned
+RET0444,ORD06425,2024-11-25,Damaged,Returned
+RET0445,ORD00544,2025-10-30,Wrong Product,Returned
+RET0446,ORD01924,2025-11-15,Damaged,Returned
+RET0447,ORD04310,2025-07-28,Late Delivery,Returned
+RET0448,ORD03104,2024-07-24,Customer Changed Mind,Returned
+RET0449,ORD02217,2025-02-20,Damaged,Returned
+RET0450,ORD06968,2025-05-15,Customer Changed Mind,Returned
+RET0451,ORD00203,2025-09-15,Damaged,Returned
+RET0452,ORD04096,2025-08-21,Customer Changed Mind,Returned
+RET0453,ORD03444,2024-01-19,Late Delivery,Returned
+RET0454,ORD01968,2025-10-22,Quality Issue,Returned
+RET0455,ORD03931,2025-10-07,Damaged,Returned
+RET0456,ORD04771,2024-05-25,Customer Changed Mind,Returned
+RET0457,ORD00938,2025-12-27,Damaged,Returned
+RET0458,ORD02548,2024-05-06,Customer Changed Mind,Returned
+RET0459,ORD06445,2025-11-11,Customer Changed Mind,Returned
+RET0460,ORD00067,2025-12-31,Quality Issue,Returned
+RET0461,ORD00309,2024-04-23,Customer Changed Mind,Returned
+RET0462,ORD01927,2025-03-18,Damaged,Returned
+RET0463,ORD06680,2025-12-22,Late Delivery,Returned
+RET0464,ORD00946,2025-10-27,Wrong Product,Returned
+RET0465,ORD04956,2025-02-24,Customer Changed Mind,Returned
+RET0466,ORD05327,2024-11-02,Wrong Product,Returned
+RET0467,ORD01327,2024-12-18,Late Delivery,Returned
+RET0468,ORD00263,2024-11-29,Wrong Product,Returned
+RET0469,ORD09531,2024-01-10,Customer Changed Mind,Returned
+RET0470,ORD08588,2025-01-02,Damaged,Returned
+RET0471,ORD02063,2025-01-06,Quality Issue,Returned
+RET0472,ORD00543,2025-04-02,Customer Changed Mind,Returned
+RET0473,ORD07862,2024-02-17,Customer Changed Mind,Returned
+RET0474,ORD06766,2025-12-31,Quality Issue,Returned
+RET0475,ORD00408,2025-12-25,Quality Issue,Returned
+RET0476,ORD07340,2024-04-08,Quality Issue,Returned
+RET0477,ORD07579,2025-01-21,Quality Issue,Returned
+RET0478,ORD06446,2025-05-11,Quality Issue,Returned
+RET0479,ORD00124,2024-02-27,Customer Changed Mind,Returned
+RET0480,ORD01987,2024-06-05,Wrong Product,Returned
+RET0481,ORD06194,2025-03-17,Damaged,Returned
+RET0482,ORD04175,2024-08-06,Customer Changed Mind,Returned
+RET0483,ORD02032,2024-09-11,Late Delivery,Returned
+RET0484,ORD00421,2025-06-29,Customer Changed Mind,Returned
+RET0485,ORD08804,2024-02-11,Customer Changed Mind,Returned
+RET0486,ORD09715,2024-01-07,Wrong Product,Returned
+RET0487,ORD00759,2025-06-24,Quality Issue,Returned
+RET0488,ORD04997,2025-03-06,Late Delivery,Returned
+RET0489,ORD09733,2025-09-06,Wrong Product,Returned
+RET0490,ORD06094,2024-03-01,Damaged,Returned
+RET0491,ORD02290,2024-10-21,Late Delivery,Returned
+RET0492,ORD06246,2024-03-01,Late Delivery,Returned
+RET0493,ORD07871,2025-02-14,Wrong Product,Returned
+RET0494,ORD06539,2025-07-23,Late Delivery,Returned
+RET0495,ORD09984,2024-10-28,Customer Changed Mind,Returned
+RET0496,ORD09011,2024-09-25,Customer Changed Mind,Returned
+RET0497,ORD00023,2025-04-14,Quality Issue,Returned
+RET0498,ORD01127,2025-01-04,Wrong Product,Returned
+RET0499,ORD01497,2025-05-04,Customer Changed Mind,Returned
+RET0500,ORD02360,2025-09-08,Late Delivery,Returned
+RET0501,ORD00290,2025-03-11,Late Delivery,Returned
+RET0502,ORD00809,2025-09-16,Customer Changed Mind,Returned
+RET0503,ORD04494,2025-02-17,Wrong Product,Returned
+RET0504,ORD06951,2025-01-12,Wrong Product,Returned
+RET0505,ORD00467,2025-05-05,Damaged,Returned
+RET0506,ORD01800,2024-10-08,Wrong Product,Returned
+RET0507,ORD06590,2024-07-30,Customer Changed Mind,Returned
+RET0508,ORD06174,2024-07-29,Damaged,Returned
+RET0509,ORD06072,2024-02-20,Late Delivery,Returned
+RET0510,ORD00826,2025-04-04,Customer Changed Mind,Returned
+RET0511,ORD09250,2025-04-03,Quality Issue,Returned
+RET0512,ORD03694,2024-02-11,Quality Issue,Returned
+RET0513,ORD09002,2024-05-30,Wrong Product,Returned
+RET0514,ORD00484,2025-07-31,Damaged,Returned
+RET0515,ORD08871,2024-09-11,Damaged,Returned
+RET0516,ORD04867,2024-04-05,Late Delivery,Returned
+RET0517,ORD09035,2025-02-15,Wrong Product,Returned
+RET0518,ORD02092,2024-08-19,Damaged,Returned
+RET0519,ORD08281,2024-11-24,Customer Changed Mind,Returned
+RET0520,ORD02307,2024-01-24,Late Delivery,Returned
+RET0521,ORD00324,2025-11-09,Damaged,Returned
+RET0522,ORD09632,2025-08-01,Quality Issue,Returned
+RET0523,ORD06617,2024-11-14,Quality Issue,Returned
+RET0524,ORD07676,2025-10-15,Damaged,Returned
+RET0525,ORD00054,2025-04-22,Quality Issue,Returned
+RET0526,ORD03066,2025-02-19,Customer Changed Mind,Returned
+RET0527,ORD07136,2024-08-22,Late Delivery,Returned
+RET0528,ORD09796,2025-01-24,Customer Changed Mind,Returned
+RET0529,ORD00069,2024-04-28,Quality Issue,Returned
+RET0530,ORD00601,2024-09-02,Damaged,Returned
+RET0531,ORD04971,2024-03-06,Damaged,Returned
+RET0532,ORD07308,2024-06-24,Late Delivery,Returned
+RET0533,ORD07310,2024-12-31,Quality Issue,Returned
+RET0534,ORD07063,2024-06-21,Quality Issue,Returned
+RET0535,ORD03957,2024-04-04,Quality Issue,Returned
+RET0536,ORD07271,2024-12-12,Wrong Product,Returned
+RET0537,ORD06315,2025-08-24,Damaged,Returned
+RET0538,ORD00511,2025-04-18,Quality Issue,Returned
+RET0539,ORD01938,2025-03-04,Late Delivery,Returned
+RET0540,ORD03898,2025-10-16,Wrong Product,Returned
+RET0541,ORD04753,2025-11-24,Quality Issue,Returned
+RET0542,ORD07246,2025-10-24,Damaged,Returned
+RET0543,ORD07319,2024-04-12,Wrong Product,Returned
+RET0544,ORD06915,2025-09-20,Customer Changed Mind,Returned
+RET0545,ORD03535,2025-06-28,Late Delivery,Returned
+RET0546,ORD04673,2025-06-09,Damaged,Returned
+RET0547,ORD08787,2025-09-26,Customer Changed Mind,Returned
+RET0548,ORD01130,2025-10-25,Damaged,Returned
+RET0549,ORD04612,2025-07-05,Late Delivery,Returned
+RET0550,ORD02378,2025-08-03,Quality Issue,Returned
+RET0551,ORD01109,2024-10-11,Customer Changed Mind,Returned
+RET0552,ORD08373,2025-11-12,Customer Changed Mind,Returned
+RET0553,ORD00853,2024-07-05,Wrong Product,Returned
+RET0554,ORD06112,2025-12-08,Quality Issue,Returned
+RET0555,ORD08159,2025-08-30,Late Delivery,Returned
+RET0556,ORD00840,2025-10-29,Wrong Product,Returned
+RET0557,ORD00574,2025-08-29,Customer Changed Mind,Returned
+RET0558,ORD01386,2024-07-04,Damaged,Returned
+RET0559,ORD07851,2024-01-04,Late Delivery,Returned
+RET0560,ORD01172,2025-07-29,Wrong Product,Returned
+RET0561,ORD05291,2024-03-02,Quality Issue,Returned
+RET0562,ORD02234,2024-01-02,Damaged,Returned
+RET0563,ORD02967,2025-06-04,Wrong Product,Returned
+RET0564,ORD00801,2024-09-17,Late Delivery,Returned
+RET0565,ORD06999,2025-04-19,Damaged,Returned
+RET0566,ORD04788,2024-03-29,Wrong Product,Returned
+RET0567,ORD09552,2024-04-16,Wrong Product,Returned
+RET0568,ORD04103,2024-08-08,Late Delivery,Returned
+RET0569,ORD06346,2024-02-14,Quality Issue,Returned
+RET0570,ORD07427,2024-10-17,Damaged,Returned
+RET0571,ORD06152,2024-05-15,Wrong Product,Returned
+RET0572,ORD04536,2024-10-25,Late Delivery,Returned
+RET0573,ORD03014,2025-12-08,Wrong Product,Returned
+RET0574,ORD06768,2024-03-28,Late Delivery,Returned
+RET0575,ORD02533,2024-08-13,Late Delivery,Returned
+RET0576,ORD08994,2024-12-03,Wrong Product,Returned
+RET0577,ORD02977,2024-02-21,Late Delivery,Returned
+RET0578,ORD08805,2024-08-21,Damaged,Returned
+RET0579,ORD09559,2024-01-28,Late Delivery,Returned
+RET0580,ORD05096,2024-05-28,Quality Issue,Returned
+RET0581,ORD01352,2024-08-29,Quality Issue,Returned
+RET0582,ORD06454,2024-03-31,Late Delivery,Returned
+RET0583,ORD02091,2024-05-19,Damaged,Returned
+RET0584,ORD01216,2024-07-11,Customer Changed Mind,Returned
+RET0585,ORD05645,2024-04-22,Customer Changed Mind,Returned
+RET0586,ORD08728,2024-07-21,Damaged,Returned
+RET0587,ORD03703,2025-05-17,Quality Issue,Returned
+RET0588,ORD09515,2025-03-21,Late Delivery,Returned
+RET0589,ORD09423,2025-01-28,Wrong Product,Returned
+RET0590,ORD01763,2024-09-23,Late Delivery,Returned
+RET0591,ORD03185,2024-07-13,Late Delivery,Returned
+RET0592,ORD02477,2025-06-27,Customer Changed Mind,Returned
+RET0593,ORD05719,2024-04-16,Late Delivery,Returned
+RET0594,ORD09285,2024-04-30,Customer Changed Mind,Returned
+RET0595,ORD02485,2025-01-16,Wrong Product,Returned
+RET0596,ORD04131,2024-03-24,Late Delivery,Returned
+RET0597,ORD09439,2024-09-03,Damaged,Returned
+RET0598,ORD07907,2024-11-07,Late Delivery,Returned
+RET0599,ORD04346,2024-05-21,Damaged,Returned
+RET0600,ORD08002,2024-10-24,Customer Changed Mind,Returned
+RET0601,ORD06230,2024-03-26,Late Delivery,Returned
+RET0602,ORD04115,2025-01-27,Customer Changed Mind,Returned
+RET0603,ORD08434,2024-04-01,Damaged,Returned
+RET0604,ORD00180,2025-08-16,Customer Changed Mind,Returned
+RET0605,ORD02105,2025-10-14,Quality Issue,Returned
+RET0606,ORD00278,2025-11-02,Damaged,Returned
+RET0607,ORD07611,2025-05-30,Customer Changed Mind,Returned
+RET0608,ORD00644,2025-02-20,Late Delivery,Returned
+RET0609,ORD01341,2024-09-23,Customer Changed Mind,Returned
+RET0610,ORD08746,2024-01-27,Wrong Product,Returned
+RET0611,ORD09057,2024-03-12,Damaged,Returned
+RET0612,ORD03902,2024-09-08,Customer Changed Mind,Returned
+RET0613,ORD01568,2024-06-15,Quality Issue,Returned
+RET0614,ORD05605,2025-02-25,Wrong Product,Returned
+RET0615,ORD03784,2025-05-15,Damaged,Returned
+RET0616,ORD01696,2025-10-22,Wrong Product,Returned
+RET0617,ORD04602,2025-07-05,Late Delivery,Returned
+RET0618,ORD00905,2024-06-22,Quality Issue,Returned
+RET0619,ORD04157,2025-08-28,Late Delivery,Returned
+RET0620,ORD08442,2024-05-24,Customer Changed Mind,Returned
+RET0621,ORD02760,2025-12-08,Wrong Product,Returned
+RET0622,ORD02690,2024-04-18,Late Delivery,Returned
+RET0623,ORD09127,2024-05-19,Customer Changed Mind,Returned
+RET0624,ORD07068,2025-01-28,Quality Issue,Returned
+RET0625,ORD01048,2025-03-22,Late Delivery,Returned
+RET0626,ORD00143,2024-12-18,Wrong Product,Returned
+RET0627,ORD00556,2025-03-30,Late Delivery,Returned
+RET0628,ORD03342,2025-05-02,Quality Issue,Returned
+RET0629,ORD06812,2025-03-27,Customer Changed Mind,Returned
+RET0630,ORD03545,2024-02-25,Late Delivery,Returned
+RET0631,ORD06538,2024-01-03,Late Delivery,Returned
+RET0632,ORD04353,2025-04-18,Damaged,Returned
+RET0633,ORD02076,2024-11-03,Customer Changed Mind,Returned
+RET0634,ORD06872,2025-10-03,Damaged,Returned
+RET0635,ORD04436,2025-04-10,Damaged,Returned
+RET0636,ORD03051,2025-05-30,Quality Issue,Returned
+RET0637,ORD04132,2025-12-15,Quality Issue,Returned
+RET0638,ORD04158,2025-11-20,Wrong Product,Returned
+RET0639,ORD09778,2024-09-01,Customer Changed Mind,Returned
+RET0640,ORD09658,2024-05-01,Customer Changed Mind,Returned
+RET0641,ORD08007,2025-03-23,Quality Issue,Returned
+RET0642,ORD06634,2024-12-24,Quality Issue,Returned
+RET0643,ORD04545,2025-01-09,Damaged,Returned
+RET0644,ORD08529,2025-10-23,Quality Issue,Returned
+RET0645,ORD05627,2024-12-28,Late Delivery,Returned
+RET0646,ORD05988,2024-05-07,Customer Changed Mind,Returned
+RET0647,ORD01397,2025-07-26,Wrong Product,Returned
+RET0648,ORD04308,2025-08-03,Damaged,Returned
+RET0649,ORD06932,2024-10-24,Late Delivery,Returned
+RET0650,ORD07976,2025-07-04,Quality Issue,Returned
+RET0651,ORD08999,2025-08-20,Wrong Product,Returned
+RET0652,ORD01837,2025-09-16,Quality Issue,Returned
+RET0653,ORD06305,2024-06-29,Late Delivery,Returned
+RET0654,ORD02081,2024-02-10,Wrong Product,Returned
+RET0655,ORD02112,2025-07-31,Quality Issue,Returned
+RET0656,ORD06339,2025-09-19,Late Delivery,Returned
+RET0657,ORD07546,2025-04-20,Late Delivery,Returned
+RET0658,ORD03415,2025-09-04,Wrong Product,Returned
+RET0659,ORD03854,2024-01-03,Late Delivery,Returned
+RET0660,ORD01501,2025-05-29,Quality Issue,Returned
+RET0661,ORD02478,2024-01-05,Wrong Product,Returned
+RET0662,ORD02367,2024-05-12,Damaged,Returned
+RET0663,ORD09834,2024-09-22,Late Delivery,Returned
+RET0664,ORD05273,2025-07-20,Quality Issue,Returned
+RET0665,ORD04431,2024-07-22,Wrong Product,Returned
+RET0666,ORD00984,2024-05-11,Damaged,Returned
+RET0667,ORD05160,2024-02-10,Damaged,Returned
+RET0668,ORD05168,2025-11-26,Customer Changed Mind,Returned
+RET0669,ORD05709,2025-09-24,Customer Changed Mind,Returned
+RET0670,ORD09087,2025-09-06,Wrong Product,Returned
+RET0671,ORD04853,2025-01-29,Late Delivery,Returned
+RET0672,ORD06877,2025-04-11,Quality Issue,Returned
+RET0673,ORD09614,2025-03-28,Late Delivery,Returned
+RET0674,ORD00728,2024-05-18,Quality Issue,Returned
+RET0675,ORD07227,2024-08-04,Quality Issue,Returned
+RET0676,ORD07553,2024-10-10,Customer Changed Mind,Returned
+RET0677,ORD06580,2025-05-31,Customer Changed Mind,Returned
+RET0678,ORD01910,2025-05-29,Late Delivery,Returned
+RET0679,ORD05167,2024-10-03,Wrong Product,Returned
+RET0680,ORD00136,2024-01-21,Quality Issue,Returned
+RET0681,ORD07154,2024-01-13,Customer Changed Mind,Returned
+RET0682,ORD04228,2025-04-30,Wrong Product,Returned
+RET0683,ORD04555,2024-01-16,Customer Changed Mind,Returned
+RET0684,ORD03761,2024-09-12,Quality Issue,Returned
+RET0685,ORD04062,2025-10-23,Damaged,Returned
+RET0686,ORD00115,2025-04-23,Customer Changed Mind,Returned
+RET0687,ORD03244,2025-08-16,Wrong Product,Returned
+RET0688,ORD01343,2025-10-14,Late Delivery,Returned
+RET0689,ORD07798,2024-04-15,Late Delivery,Returned
+RET0690,ORD07803,2024-03-27,Quality Issue,Returned
+RET0691,ORD04498,2025-02-27,Damaged,Returned
+RET0692,ORD01795,2024-06-27,Customer Changed Mind,Returned
+RET0693,ORD07270,2025-04-21,Customer Changed Mind,Returned
+RET0694,ORD05502,2025-04-03,Damaged,Returned
+RET0695,ORD09597,2025-06-08,Quality Issue,Returned
+RET0696,ORD01265,2024-04-06,Quality Issue,Returned
+RET0697,ORD04643,2025-06-06,Wrong Product,Returned
+RET0698,ORD03575,2024-02-14,Wrong Product,Returned
+RET0699,ORD09746,2025-01-02,Wrong Product,Returned
+RET0700,ORD07396,2024-06-29,Quality Issue,Returned
+RET0701,ORD02053,2024-01-02,Customer Changed Mind,Returned
+RET0702,ORD03498,2024-11-30,Late Delivery,Returned
+RET0703,ORD04547,2024-08-21,Quality Issue,Returned
+RET0704,ORD09309,2024-07-11,Damaged,Returned
+RET0705,ORD07518,2025-11-15,Late Delivery,Returned
+RET0706,ORD05846,2025-03-03,Quality Issue,Returned
+RET0707,ORD01870,2025-07-10,Quality Issue,Returned
+RET0708,ORD09403,2024-05-23,Wrong Product,Returned
+RET0709,ORD00850,2024-09-07,Customer Changed Mind,Returned
+RET0710,ORD03493,2025-06-07,Customer Changed Mind,Returned
+RET0711,ORD05481,2024-12-28,Late Delivery,Returned
+RET0712,ORD05023,2025-04-21,Quality Issue,Returned
+RET0713,ORD06809,2024-05-17,Wrong Product,Returned
+RET0714,ORD04493,2024-09-14,Damaged,Returned
+RET0715,ORD05915,2024-06-12,Quality Issue,Returned
+RET0716,ORD02024,2024-05-05,Wrong Product,Returned
+RET0717,ORD07651,2025-09-25,Damaged,Returned
+RET0718,ORD02489,2024-09-01,Damaged,Returned
+RET0719,ORD08916,2025-07-16,Late Delivery,Returned
+RET0720,ORD07670,2024-01-15,Customer Changed Mind,Returned
+RET0721,ORD05856,2025-01-21,Customer Changed Mind,Returned
+RET0722,ORD03647,2025-12-18,Late Delivery,Returned
+RET0723,ORD01028,2025-11-24,Quality Issue,Returned
+RET0724,ORD00062,2024-08-30,Wrong Product,Returned
+RET0725,ORD08947,2024-07-01,Customer Changed Mind,Returned
+RET0726,ORD09229,2024-07-10,Late Delivery,Returned
+RET0727,ORD02871,2024-06-26,Customer Changed Mind,Returned
+RET0728,ORD01639,2025-08-18,Customer Changed Mind,Returned
+RET0729,ORD02452,2025-11-19,Customer Changed Mind,Returned
+RET0730,ORD02829,2024-04-20,Quality Issue,Returned
+RET0731,ORD06135,2024-10-25,Late Delivery,Returned
+RET0732,ORD01742,2024-08-28,Customer Changed Mind,Returned
+RET0733,ORD06881,2024-02-29,Customer Changed Mind,Returned
+RET0734,ORD06748,2024-04-26,Late Delivery,Returned
+RET0735,ORD07806,2024-04-02,Damaged,Returned
+RET0736,ORD08900,2024-02-09,Quality Issue,Returned
+RET0737,ORD08585,2025-12-17,Quality Issue,Returned
+RET0738,ORD05828,2025-08-16,Wrong Product,Returned
+RET0739,ORD03908,2024-11-12,Wrong Product,Returned
+RET0740,ORD06285,2025-06-30,Damaged,Returned
+RET0741,ORD03270,2024-10-16,Wrong Product,Returned
+RET0742,ORD06449,2025-09-26,Customer Changed Mind,Returned
+RET0743,ORD00035,2025-05-12,Customer Changed Mind,Returned
+RET0744,ORD07563,2024-05-20,Wrong Product,Returned
+RET0745,ORD02013,2024-07-27,Quality Issue,Returned
+RET0746,ORD02294,2024-08-13,Damaged,Returned
+RET0747,ORD04889,2024-08-04,Customer Changed Mind,Returned
+RET0748,ORD05836,2025-06-27,Damaged,Returned
+RET0749,ORD05386,2025-06-01,Wrong Product,Returned
+RET0750,ORD04148,2025-02-25,Late Delivery,Returned
+RET0751,ORD04437,2025-03-03,Damaged,Returned
+RET0752,ORD03195,2025-04-20,Damaged,Returned
+RET0753,ORD03594,2025-03-20,Wrong Product,Returned
+RET0754,ORD05614,2025-02-20,Wrong Product,Returned
+RET0755,ORD08118,2024-05-13,Customer Changed Mind,Returned
+RET0756,ORD01126,2024-01-28,Late Delivery,Returned
+RET0757,ORD08686,2025-10-07,Late Delivery,Returned
+RET0758,ORD06961,2024-04-16,Damaged,Returned
+RET0759,ORD02607,2024-03-23,Late Delivery,Returned
+RET0760,ORD03409,2024-12-06,Wrong Product,Returned
+RET0761,ORD02337,2024-07-02,Wrong Product,Returned
+RET0762,ORD00254,2025-10-14,Wrong Product,Returned
+RET0763,ORD00843,2025-08-03,Damaged,Returned
+RET0764,ORD06144,2024-03-26,Quality Issue,Returned
+RET0765,ORD07347,2024-10-12,Wrong Product,Returned
+RET0766,ORD08421,2025-09-05,Late Delivery,Returned
+RET0767,ORD04488,2024-05-15,Late Delivery,Returned
+RET0768,ORD05270,2025-08-12,Wrong Product,Returned
+RET0769,ORD05901,2025-02-06,Quality Issue,Returned
+RET0770,ORD04589,2025-04-27,Damaged,Returned
+RET0771,ORD06324,2025-12-23,Wrong Product,Returned
+RET0772,ORD05899,2024-02-06,Damaged,Returned
+RET0773,ORD05011,2024-03-04,Quality Issue,Returned
+RET0774,ORD05206,2025-06-13,Wrong Product,Returned
+RET0775,ORD03386,2025-04-04,Wrong Product,Returned
+RET0776,ORD04470,2024-11-26,Wrong Product,Returned
+RET0777,ORD05832,2025-02-03,Customer Changed Mind,Returned
+RET0778,ORD07153,2024-02-26,Wrong Product,Returned
+RET0779,ORD05681,2024-10-13,Wrong Product,Returned
+RET0780,ORD02297,2024-06-07,Quality Issue,Returned
+RET0781,ORD04783,2025-12-26,Quality Issue,Returned
+RET0782,ORD07968,2024-07-29,Customer Changed Mind,Returned
+RET0783,ORD02122,2025-11-16,Wrong Product,Returned
+RET0784,ORD02649,2024-05-28,Late Delivery,Returned
+RET0785,ORD07327,2025-08-07,Damaged,Returned
+RET0786,ORD04405,2024-06-23,Wrong Product,Returned
+RET0787,ORD08072,2024-04-20,Customer Changed Mind,Returned
+RET0788,ORD02652,2024-07-15,Late Delivery,Returned
+RET0789,ORD08272,2025-09-20,Quality Issue,Returned
+RET0790,ORD01345,2025-07-04,Damaged,Returned
+RET0791,ORD00816,2024-04-24,Customer Changed Mind,Returned
+RET0792,ORD07938,2024-12-29,Quality Issue,Returned
+RET0793,ORD03757,2025-12-02,Wrong Product,Returned
+RET0794,ORD05713,2024-10-01,Customer Changed Mind,Returned
+RET0795,ORD07945,2025-12-22,Wrong Product,Returned
+RET0796,ORD00046,2024-10-22,Customer Changed Mind,Returned
+RET0797,ORD05822,2025-02-11,Customer Changed Mind,Returned
+RET0798,ORD02994,2025-04-30,Wrong Product,Returned
+RET0799,ORD03733,2025-12-09,Customer Changed Mind,Returned
+RET0800,ORD02169,2025-05-05,Quality Issue,Returned
+RET0801,ORD00005,2025-04-08,Quality Issue,Returned
+RET0802,ORD04874,2024-03-26,Damaged,Returned
+RET0803,ORD06714,2025-07-04,Damaged,Returned
+RET0804,ORD09544,2024-02-05,Customer Changed Mind,Returned
+RET0805,ORD06801,2025-10-08,Quality Issue,Returned
+RET0806,ORD02820,2025-05-04,Wrong Product,Returned
+RET0807,ORD08744,2025-10-07,Customer Changed Mind,Returned
+RET0808,ORD02602,2024-10-05,Wrong Product,Returned
+RET0809,ORD05418,2025-11-03,Late Delivery,Returned
+RET0810,ORD02727,2024-10-04,Damaged,Returned
+RET0811,ORD09520,2025-05-20,Customer Changed Mind,Returned
+RET0812,ORD04827,2024-06-19,Customer Changed Mind,Returned
+RET0813,ORD04439,2025-07-08,Wrong Product,Returned
+RET0814,ORD08276,2024-04-25,Damaged,Returned
+RET0815,ORD09103,2025-12-10,Wrong Product,Returned
+RET0816,ORD07653,2025-10-25,Wrong Product,Returned
+RET0817,ORD01255,2025-03-30,Damaged,Returned
+RET0818,ORD04930,2024-02-21,Late Delivery,Returned
+RET0819,ORD06065,2024-08-03,Quality Issue,Returned
+RET0820,ORD00346,2025-05-01,Quality Issue,Returned
+RET0821,ORD08034,2024-01-20,Late Delivery,Returned
+RET0822,ORD06586,2024-08-09,Damaged,Returned
+RET0823,ORD05655,2025-01-15,Customer Changed Mind,Returned
+RET0824,ORD04685,2025-01-25,Damaged,Returned
+RET0825,ORD00788,2024-11-01,Wrong Product,Returned
+RET0826,ORD03395,2025-07-03,Damaged,Returned
+RET0827,ORD03720,2025-04-21,Quality Issue,Returned
+RET0828,ORD02974,2024-12-15,Customer Changed Mind,Returned
+RET0829,ORD02922,2024-06-06,Late Delivery,Returned
+RET0830,ORD03149,2024-05-25,Damaged,Returned
+RET0831,ORD03110,2025-07-07,Customer Changed Mind,Returned
+RET0832,ORD07350,2024-04-29,Customer Changed Mind,Returned
+RET0833,ORD03082,2025-12-16,Quality Issue,Returned
+RET0834,ORD05572,2024-10-26,Wrong Product,Returned
+RET0835,ORD04883,2024-08-01,Customer Changed Mind,Returned
+RET0836,ORD02393,2025-09-20,Customer Changed Mind,Returned
+RET0837,ORD01737,2024-04-14,Damaged,Returned
+RET0838,ORD04214,2025-04-22,Late Delivery,Returned
+RET0839,ORD04872,2024-10-06,Damaged,Returned
+RET0840,ORD07212,2024-09-14,Quality Issue,Returned
+RET0841,ORD08010,2025-01-02,Customer Changed Mind,Returned
+RET0842,ORD01999,2025-01-20,Wrong Product,Returned
+RET0843,ORD07493,2024-01-09,Customer Changed Mind,Returned
+RET0844,ORD05112,2024-01-25,Wrong Product,Returned
+RET0845,ORD01930,2025-08-07,Wrong Product,Returned
+RET0846,ORD02957,2024-02-21,Wrong Product,Returned
+RET0847,ORD08610,2024-03-28,Late Delivery,Returned
+RET0848,ORD03573,2024-03-21,Damaged,Returned
+RET0849,ORD05444,2025-08-18,Quality Issue,Returned
+RET0850,ORD04756,2025-04-22,Late Delivery,Returned
+RET0851,ORD07445,2024-07-30,Late Delivery,Returned
+RET0852,ORD01414,2025-12-23,Wrong Product,Returned
+RET0853,ORD06646,2025-02-24,Late Delivery,Returned
+RET0854,ORD08557,2025-07-08,Quality Issue,Returned
+RET0855,ORD05188,2024-08-25,Quality Issue,Returned
+RET0856,ORD01017,2024-01-27,Customer Changed Mind,Returned
+RET0857,ORD06956,2025-01-27,Late Delivery,Returned
+RET0858,ORD07466,2025-12-04,Customer Changed Mind,Returned
+RET0859,ORD08156,2024-09-09,Quality Issue,Returned
+RET0860,ORD07936,2025-07-02,Late Delivery,Returned
+RET0861,ORD00599,2024-06-12,Wrong Product,Returned
+RET0862,ORD00878,2024-02-07,Wrong Product,Returned
+RET0863,ORD06434,2024-12-05,Late Delivery,Returned
+RET0864,ORD03818,2024-07-24,Customer Changed Mind,Returned
+RET0865,ORD01408,2025-12-02,Customer Changed Mind,Returned
+RET0866,ORD01146,2025-10-12,Wrong Product,Returned
+RET0867,ORD04624,2024-01-01,Customer Changed Mind,Returned
+RET0868,ORD00019,2025-07-25,Wrong Product,Returned
+RET0869,ORD08646,2024-01-09,Damaged,Returned
+RET0870,ORD02405,2025-08-03,Wrong Product,Returned
+RET0871,ORD02563,2024-10-05,Damaged,Returned
+RET0872,ORD00238,2025-05-13,Late Delivery,Returned
+RET0873,ORD06996,2025-07-31,Damaged,Returned
+RET0874,ORD09488,2024-04-30,Quality Issue,Returned
+RET0875,ORD09976,2025-07-01,Customer Changed Mind,Returned
+RET0876,ORD05939,2024-10-29,Damaged,Returned
+RET0877,ORD06689,2024-05-13,Quality Issue,Returned
+RET0878,ORD05917,2024-01-03,Quality Issue,Returned
+RET0879,ORD04515,2024-06-08,Customer Changed Mind,Returned
+RET0880,ORD06416,2024-03-25,Wrong Product,Returned
+RET0881,ORD08526,2024-11-14,Quality Issue,Returned
+RET0882,ORD06429,2024-09-17,Damaged,Returned
+RET0883,ORD04786,2024-03-11,Customer Changed Mind,Returned
+RET0884,ORD05883,2025-01-24,Damaged,Returned
+RET0885,ORD01984,2024-03-03,Wrong Product,Returned
+RET0886,ORD01348,2024-11-19,Customer Changed Mind,Returned
+RET0887,ORD09036,2024-10-31,Quality Issue,Returned
+RET0888,ORD09923,2024-02-14,Damaged,Returned
+RET0889,ORD05321,2025-04-09,Damaged,Returned
+RET0890,ORD09308,2025-06-01,Quality Issue,Returned
+RET0891,ORD01865,2024-10-26,Quality Issue,Returned
+RET0892,ORD09847,2024-10-15,Wrong Product,Returned
+RET0893,ORD09286,2024-05-29,Wrong Product,Returned
+RET0894,ORD04035,2024-08-31,Quality Issue,Returned
+RET0895,ORD05679,2024-09-27,Customer Changed Mind,Returned
+RET0896,ORD08426,2025-01-08,Quality Issue,Returned
+RET0897,ORD04064,2025-07-25,Quality Issue,Returned
+RET0898,ORD04557,2024-10-27,Late Delivery,Returned
+RET0899,ORD02514,2025-10-26,Customer Changed Mind,Returned
+RET0900,ORD08067,2025-02-28,Customer Changed Mind,Returned
+RET0901,ORD08288,2025-09-05,Wrong Product,Returned
+RET0902,ORD02321,2025-08-08,Wrong Product,Returned
+RET0903,ORD01661,2024-05-24,Wrong Product,Returned
+RET0904,ORD02099,2024-12-26,Damaged,Returned
+RET0905,ORD07291,2025-01-16,Customer Changed Mind,Returned
+RET0906,ORD08417,2024-05-17,Late Delivery,Returned
+RET0907,ORD00658,2025-01-17,Wrong Product,Returned
+RET0908,ORD07791,2025-05-03,Wrong Product,Returned
+RET0909,ORD05383,2024-11-18,Wrong Product,Returned
+RET0910,ORD04460,2024-09-08,Wrong Product,Returned
+RET0911,ORD06340,2024-07-21,Wrong Product,Returned
+RET0912,ORD05756,2025-09-24,Damaged,Returned
+RET0913,ORD06424,2024-04-02,Late Delivery,Returned
+RET0914,ORD00553,2024-05-13,Customer Changed Mind,Returned
+RET0915,ORD01204,2025-09-08,Late Delivery,Returned
+RET0916,ORD00893,2024-09-04,Quality Issue,Returned
+RET0917,ORD04504,2024-07-07,Customer Changed Mind,Returned
+RET0918,ORD05401,2024-02-17,Wrong Product,Returned
+RET0919,ORD09176,2024-04-30,Quality Issue,Returned
+RET0920,ORD04978,2024-04-24,Quality Issue,Returned
+RET0921,ORD07842,2025-11-06,Quality Issue,Returned
+RET0922,ORD07109,2024-06-20,Quality Issue,Returned
+RET0923,ORD08950,2024-06-08,Wrong Product,Returned
+RET0924,ORD04270,2024-03-07,Quality Issue,Returned
+RET0925,ORD07419,2024-09-29,Late Delivery,Returned
+RET0926,ORD02327,2025-08-10,Wrong Product,Returned
+RET0927,ORD01956,2024-04-03,Quality Issue,Returned
+RET0928,ORD04808,2024-09-21,Quality Issue,Returned
+RET0929,ORD02771,2024-08-23,Late Delivery,Returned
+RET0930,ORD04311,2024-08-24,Damaged,Returned
+RET0931,ORD00099,2024-05-11,Damaged,Returned
+RET0932,ORD02694,2024-04-08,Late Delivery,Returned
+RET0933,ORD06374,2024-10-19,Damaged,Returned
+RET0934,ORD05351,2024-02-07,Customer Changed Mind,Returned
+RET0935,ORD05249,2024-03-17,Customer Changed Mind,Returned
+RET0936,ORD08353,2024-08-03,Customer Changed Mind,Returned
+RET0937,ORD00125,2024-01-24,Damaged,Returned
+RET0938,ORD03414,2025-09-13,Customer Changed Mind,Returned
+RET0939,ORD01054,2024-10-31,Customer Changed Mind,Returned
+RET0940,ORD03380,2025-02-12,Damaged,Returned
+RET0941,ORD09353,2024-04-06,Late Delivery,Returned
+RET0942,ORD02070,2024-11-03,Wrong Product,Returned
+RET0943,ORD02454,2025-12-25,Customer Changed Mind,Returned
+RET0944,ORD08182,2024-04-22,Damaged,Returned
+RET0945,ORD04335,2024-06-13,Wrong Product,Returned
+RET0946,ORD00974,2024-11-20,Wrong Product,Returned
+RET0947,ORD01877,2025-10-09,Quality Issue,Returned
+RET0948,ORD04145,2025-01-08,Wrong Product,Returned
+RET0949,ORD06096,2024-11-08,Customer Changed Mind,Returned
+RET0950,ORD03557,2024-09-21,Late Delivery,Returned
+RET0951,ORD08321,2024-06-11,Customer Changed Mind,Returned
+RET0952,ORD08721,2024-02-17,Quality Issue,Returned
+RET0953,ORD05368,2025-09-19,Wrong Product,Returned
+RET0954,ORD05672,2025-08-01,Quality Issue,Returned
+RET0955,ORD08583,2025-08-26,Customer Changed Mind,Returned
+RET0956,ORD06637,2025-08-22,Customer Changed Mind,Returned
+RET0957,ORD07751,2024-09-09,Customer Changed Mind,Returned
+RET0958,ORD06773,2024-12-08,Late Delivery,Returned
+RET0959,ORD05644,2024-11-18,Customer Changed Mind,Returned
+RET0960,ORD09809,2024-06-13,Customer Changed Mind,Returned
+RET0961,ORD01550,2025-12-27,Wrong Product,Returned
+RET0962,ORD09088,2025-12-09,Late Delivery,Returned
+RET0963,ORD01599,2025-02-22,Wrong Product,Returned
+RET0964,ORD00364,2024-12-03,Quality Issue,Returned
+RET0965,ORD09050,2025-07-28,Damaged,Returned
+RET0966,ORD06976,2024-07-29,Wrong Product,Returned
+RET0967,ORD09484,2025-04-03,Late Delivery,Returned
+RET0968,ORD04527,2025-12-22,Wrong Product,Returned
+RET0969,ORD00929,2025-10-27,Damaged,Returned
+RET0970,ORD02204,2024-11-08,Wrong Product,Returned
+RET0971,ORD09090,2025-12-21,Damaged,Returned
+RET0972,ORD09264,2024-12-16,Late Delivery,Returned
+RET0973,ORD04234,2024-03-16,Wrong Product,Returned
+RET0974,ORD03454,2025-11-16,Late Delivery,Returned
+RET0975,ORD07928,2024-06-06,Late Delivery,Returned
+RET0976,ORD01805,2025-02-07,Quality Issue,Returned
+RET0977,ORD04973,2024-09-26,Quality Issue,Returned
+RET0978,ORD07161,2025-01-03,Wrong Product,Returned
+RET0979,ORD04305,2024-08-23,Wrong Product,Returned
+RET0980,ORD05065,2025-04-22,Late Delivery,Returned
+RET0981,ORD02237,2024-09-02,Quality Issue,Returned
+RET0982,ORD00532,2025-11-24,Wrong Product,Returned
+RET0983,ORD06192,2025-03-13,Wrong Product,Returned
+RET0984,ORD04686,2025-07-28,Wrong Product,Returned
+RET0985,ORD01903,2025-02-02,Quality Issue,Returned
+RET0986,ORD08398,2025-09-04,Wrong Product,Returned
+RET0987,ORD01689,2025-07-03,Late Delivery,Returned
+RET0988,ORD01665,2025-08-01,Wrong Product,Returned
+RET0989,ORD01396,2025-08-08,Customer Changed Mind,Returned
+RET0990,ORD01158,2024-11-30,Damaged,Returned
+RET0991,ORD00579,2024-07-29,Late Delivery,Returned
+RET0992,ORD04014,2025-06-01,Wrong Product,Returned
+RET0993,ORD05411,2024-09-11,Customer Changed Mind,Returned
+RET0994,ORD02218,2025-04-28,Quality Issue,Returned
+RET0995,ORD07219,2025-05-02,Late Delivery,Returned
+RET0996,ORD08667,2025-02-09,Late Delivery,Returned
+RET0997,ORD06952,2025-02-14,Wrong Product,Returned
+RET0998,ORD01728,2025-06-03,Quality Issue,Returned
+RET0999,ORD04088,2024-04-25,Wrong Product,Returned
+RET1000,ORD00983,2024-11-11,Customer Changed Mind,Returned

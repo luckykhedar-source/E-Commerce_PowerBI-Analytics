@@ -1,0 +1,201 @@
+ProductID,ProductName,Category,SubCategory,UnitPrice,CostPrice
+P0001,Paper 001,Office Supplies,Paper,796.95,617.19
+P0002,Running Shoes 002,Sports,Running Shoes,6203.85,4038.58
+P0003,Microwave 003,Home Appliances,Microwave,15581.84,9713.54
+P0004,Smartphone 004,Electronics,Smartphone,20696.25,15931.27
+P0005,Stationery Set 005,Office Supplies,Stationery Set,759.62,541.79
+P0006,Camera 006,Electronics,Camera,51610.25,30768.51
+P0007,Microwave 007,Home Appliances,Microwave,8223.62,4942.96
+P0008,Air Conditioner 008,Home Appliances,Air Conditioner,68633.55,51583.32
+P0009,Stationery Set 009,Office Supplies,Stationery Set,724.93,490.11
+P0010,Microwave 010,Home Appliances,Microwave,16072.59,10816.67
+P0011,Washing Machine 011,Home Appliances,Washing Machine,50761.69,39171.65
+P0012,Headphones 012,Electronics,Headphones,4072.78,2687.49
+P0013,Cricket Bat 013,Sports,Cricket Bat,8923.66,6594.73
+P0014,Printer 014,Office Supplies,Printer,18597.52,13817.51
+P0015,Sofa 015,Furniture,Sofa,18890.43,14292.88
+P0016,Microwave 016,Home Appliances,Microwave,20196.29,11952.43
+P0017,Bed 017,Furniture,Bed,17284.69,10596.05
+P0018,Chair 018,Furniture,Chair,4596.19,2818.15
+P0019,Sofa 019,Furniture,Sofa,27844.42,18931.51
+P0020,Monitor 020,Electronics,Monitor,14020.39,10682.55
+P0021,Cricket Bat 021,Sports,Cricket Bat,6878.25,5112.71
+P0022,Refrigerator 022,Home Appliances,Refrigerator,68945.25,50670.94
+P0023,Bed 023,Furniture,Bed,29957.89,23747.89
+P0024,Stationery Set 024,Office Supplies,Stationery Set,792.84,470.21
+P0025,Sofa 025,Furniture,Sofa,49570.32,37427.29
+P0026,Refrigerator 026,Home Appliances,Refrigerator,53440.86,40308.66
+P0027,Tablet 027,Electronics,Tablet,20926.64,14284.36
+P0028,Football 028,Sports,Football,1126.53,825.36
+P0029,Football 029,Sports,Football,1310.65,844.84
+P0030,Printer 030,Office Supplies,Printer,23508.75,18216.9
+P0031,Microwave 031,Home Appliances,Microwave,12553.48,9544.5
+P0032,Tablet 032,Electronics,Tablet,39614.35,24714.41
+P0033,Camera 033,Electronics,Camera,54569.41,31985.14
+P0034,Notebook 034,Office Supplies,Notebook,143.7,100.11
+P0035,Washing Machine 035,Home Appliances,Washing Machine,56932.8,34147.01
+P0036,Paper 036,Office Supplies,Paper,1008.83,797.09
+P0037,Sofa 037,Furniture,Sofa,58358.81,45854.58
+P0038,Smartphone 038,Electronics,Smartphone,25137.53,20080.78
+P0039,Stationery Set 039,Office Supplies,Stationery Set,1717.54,1277.52
+P0040,Notebook 040,Office Supplies,Notebook,568.55,361.32
+P0041,Running Shoes 041,Sports,Running Shoes,4003.54,2383.24
+P0042,Chair 042,Furniture,Chair,10683.47,6548.45
+P0043,Paper 043,Office Supplies,Paper,528.82,390.77
+P0044,Washing Machine 044,Home Appliances,Washing Machine,59463.82,38619.72
+P0045,Football 045,Sports,Football,2217.01,1355.93
+P0046,Laptop 046,Electronics,Laptop,61902.8,37121.36
+P0047,Football 047,Sports,Football,1004.63,793.19
+P0048,Football 048,Sports,Football,1114.29,876.19
+P0049,Laptop 049,Electronics,Laptop,56396.41,44202.58
+P0050,Table 050,Furniture,Table,8890.7,6907.47
+P0051,Air Conditioner 051,Home Appliances,Air Conditioner,57445.48,35926.8
+P0052,Headphones 052,Electronics,Headphones,7440.54,4865.29
+P0053,Notebook 053,Office Supplies,Notebook,422.63,329.18
+P0054,Tablet 054,Electronics,Tablet,34828.61,21081.63
+P0055,Cricket Bat 055,Sports,Cricket Bat,6422.29,4812.56
+P0056,Notebook 056,Office Supplies,Notebook,312.97,191.98
+P0057,Stationery Set 057,Office Supplies,Stationery Set,911.67,722.71
+P0058,Printer 058,Office Supplies,Printer,7347.4,4878.31
+P0059,Stationery Set 059,Office Supplies,Stationery Set,1247.06,804.27
+P0060,Tablet 060,Electronics,Tablet,32036.99,25220.68
+P0061,Smartphone 061,Electronics,Smartphone,49224.25,33194.34
+P0062,Cricket Bat 062,Sports,Cricket Bat,7214.7,5874.11
+P0063,Printer 063,Office Supplies,Printer,12786.65,8472.2
+P0064,Smartphone 064,Electronics,Smartphone,20038.07,13846.76
+P0065,Camera 065,Electronics,Camera,21598.4,14583.7
+P0066,Smartphone 066,Electronics,Smartphone,15521.48,11472.78
+P0067,Cricket Bat 067,Sports,Cricket Bat,5933.02,4559.02
+P0068,Tablet 068,Electronics,Tablet,41326.98,32432.51
+P0069,Notebook 069,Office Supplies,Notebook,196.15,126.8
+P0070,Smartphone 070,Electronics,Smartphone,56679.56,41863.05
+P0071,Camera 071,Electronics,Camera,35759.59,27998.22
+P0072,Monitor 072,Electronics,Monitor,28334.52,18780.23
+P0073,Microwave 073,Home Appliances,Microwave,15561.42,10813.46
+P0074,Air Conditioner 074,Home Appliances,Air Conditioner,40981.75,23771.65
+P0075,Headphones 075,Electronics,Headphones,6740.18,4364.5
+P0076,Smartphone 076,Electronics,Smartphone,20055.1,12211.29
+P0077,Bed 077,Furniture,Bed,50047.7,37709.36
+P0078,Laptop 078,Electronics,Laptop,66750.32,43644.61
+P0079,Stationery Set 079,Office Supplies,Stationery Set,409.51,310.64
+P0080,Laptop 080,Electronics,Laptop,67342.32,40846.14
+P0081,Headphones 081,Electronics,Headphones,11112.68,6733.47
+P0082,Smartphone 082,Electronics,Smartphone,14583.87,9123.23
+P0083,Notebook 083,Office Supplies,Notebook,374.27,289.15
+P0084,Sofa 084,Furniture,Sofa,52737.3,39276.81
+P0085,Air Conditioner 085,Home Appliances,Air Conditioner,73872.61,56554.21
+P0086,Football 086,Sports,Football,519.82,398.56
+P0087,Headphones 087,Electronics,Headphones,11879.48,8267.83
+P0088,Air Conditioner 088,Home Appliances,Air Conditioner,58121.47,37608.48
+P0089,Laptop 089,Electronics,Laptop,74892.61,50603.0
+P0090,Stationery Set 090,Office Supplies,Stationery Set,446.05,334.33
+P0091,Bed 091,Furniture,Bed,49350.46,32483.04
+P0092,Air Conditioner 092,Home Appliances,Air Conditioner,41737.72,32410.53
+P0093,Cricket Bat 093,Sports,Cricket Bat,10189.0,5911.08
+P0094,Laptop 094,Electronics,Laptop,77812.86,47690.34
+P0095,Printer 095,Office Supplies,Printer,9513.49,6495.4
+P0096,Tablet 096,Electronics,Tablet,22714.55,15565.72
+P0097,Chair 097,Furniture,Chair,11100.34,7751.47
+P0098,Microwave 098,Home Appliances,Microwave,15055.62,11767.46
+P0099,Paper 099,Office Supplies,Paper,908.9,743.94
+P0100,Camera 100,Electronics,Camera,36262.87,22462.27
+P0101,Bed 101,Furniture,Bed,51632.3,38843.18
+P0102,Running Shoes 102,Sports,Running Shoes,4149.23,2427.22
+P0103,Stationery Set 103,Office Supplies,Stationery Set,585.19,454.75
+P0104,Camera 104,Electronics,Camera,22437.82,18159.1
+P0105,Fitness Equipment 105,Sports,Fitness Equipment,17543.79,10886.17
+P0106,Football 106,Sports,Football,526.46,370.01
+P0107,Laptop 107,Electronics,Laptop,72638.94,50890.24
+P0108,Notebook 108,Office Supplies,Notebook,673.74,534.39
+P0109,Table 109,Furniture,Table,17118.52,11998.2
+P0110,Smartphone 110,Electronics,Smartphone,30098.59,20298.4
+P0111,Bed 111,Furniture,Bed,32818.12,23699.05
+P0112,Smartphone 112,Electronics,Smartphone,20043.19,13117.75
+P0113,Monitor 113,Electronics,Monitor,26426.25,19479.69
+P0114,Microwave 114,Home Appliances,Microwave,16683.02,10299.86
+P0115,Fitness Equipment 115,Sports,Fitness Equipment,9526.21,7338.52
+P0116,Camera 116,Electronics,Camera,41570.44,24508.05
+P0117,Sofa 117,Furniture,Sofa,62915.52,50890.59
+P0118,Laptop 118,Electronics,Laptop,36939.5,23012.67
+P0119,Monitor 119,Electronics,Monitor,11965.18,9132.35
+P0120,Laptop 120,Electronics,Laptop,57866.38,42176.37
+P0121,Paper 121,Office Supplies,Paper,975.23,645.82
+P0122,Printer 122,Office Supplies,Printer,17942.76,13133.8
+P0123,Laptop 123,Electronics,Laptop,77212.89,61788.48
+P0124,Tablet 124,Electronics,Tablet,38907.93,29071.02
+P0125,Chair 125,Furniture,Chair,3155.85,2083.96
+P0126,Bed 126,Furniture,Bed,41856.24,33581.85
+P0127,Air Conditioner 127,Home Appliances,Air Conditioner,37425.34,27064.21
+P0128,Headphones 128,Electronics,Headphones,7160.91,4568.96
+P0129,Laptop 129,Electronics,Laptop,43850.97,27932.89
+P0130,Air Conditioner 130,Home Appliances,Air Conditioner,58219.77,46803.43
+P0131,Paper 131,Office Supplies,Paper,896.08,597.69
+P0132,Notebook 132,Office Supplies,Notebook,235.21,163.03
+P0133,Smartphone 133,Electronics,Smartphone,30154.78,21233.5
+P0134,Sofa 134,Furniture,Sofa,34117.69,25387.96
+P0135,Football 135,Sports,Football,644.55,462.91
+P0136,Chair 136,Furniture,Chair,3029.54,2200.52
+P0137,Chair 137,Furniture,Chair,3327.18,2091.19
+P0138,Washing Machine 138,Home Appliances,Washing Machine,30903.45,21958.56
+P0139,Monitor 139,Electronics,Monitor,26827.4,18117.75
+P0140,Microwave 140,Home Appliances,Microwave,12142.58,7367.6
+P0141,Stationery Set 141,Office Supplies,Stationery Set,1748.75,1100.65
+P0142,Chair 142,Furniture,Chair,4782.08,3282.92
+P0143,Air Conditioner 143,Home Appliances,Air Conditioner,56727.96,35563.32
+P0144,Paper 144,Office Supplies,Paper,501.46,362.98
+P0145,Notebook 145,Office Supplies,Notebook,360.46,274.8
+P0146,Headphones 146,Electronics,Headphones,11482.27,8693.26
+P0147,Printer 147,Office Supplies,Printer,22737.01,13458.16
+P0148,Printer 148,Office Supplies,Printer,15484.78,9786.06
+P0149,Running Shoes 149,Sports,Running Shoes,2427.19,1691.68
+P0150,Bed 150,Furniture,Bed,53462.03,36715.83
+P0151,Fitness Equipment 151,Sports,Fitness Equipment,5830.9,4665.5
+P0152,Running Shoes 152,Sports,Running Shoes,5896.48,4498.55
+P0153,Notebook 153,Office Supplies,Notebook,318.53,240.18
+P0154,Notebook 154,Office Supplies,Notebook,693.93,462.98
+P0155,Cricket Bat 155,Sports,Cricket Bat,9808.49,7104.6
+P0156,Bed 156,Furniture,Bed,44665.09,34536.09
+P0157,Football 157,Sports,Football,1290.11,764.14
+P0158,Air Conditioner 158,Home Appliances,Air Conditioner,33125.35,22293.09
+P0159,Washing Machine 159,Home Appliances,Washing Machine,54205.42,36083.24
+P0160,Paper 160,Office Supplies,Paper,680.29,502.6
+P0161,Bed 161,Furniture,Bed,36827.84,23163.81
+P0162,Refrigerator 162,Home Appliances,Refrigerator,46811.03,27452.25
+P0163,Cricket Bat 163,Sports,Cricket Bat,3768.33,3060.43
+P0164,Chair 164,Furniture,Chair,8324.94,6438.05
+P0165,Notebook 165,Office Supplies,Notebook,728.57,514.38
+P0166,Sofa 166,Furniture,Sofa,47059.67,34982.34
+P0167,Table 167,Furniture,Table,7469.0,4701.25
+P0168,Headphones 168,Electronics,Headphones,1780.85,1042.33
+P0169,Printer 169,Office Supplies,Printer,12339.56,8305.1
+P0170,Paper 170,Office Supplies,Paper,750.66,462.97
+P0171,Bed 171,Furniture,Bed,39010.06,29472.11
+P0172,Smartphone 172,Electronics,Smartphone,53066.45,36105.87
+P0173,Running Shoes 173,Sports,Running Shoes,4259.82,3133.66
+P0174,Camera 174,Electronics,Camera,46343.47,28863.63
+P0175,Stationery Set 175,Office Supplies,Stationery Set,791.76,614.23
+P0176,Fitness Equipment 176,Sports,Fitness Equipment,9388.62,6512.18
+P0177,Paper 177,Office Supplies,Paper,783.92,493.62
+P0178,Fitness Equipment 178,Sports,Fitness Equipment,4042.35,3098.18
+P0179,Monitor 179,Electronics,Monitor,12818.17,8758.44
+P0180,Monitor 180,Electronics,Monitor,23838.69,16889.32
+P0181,Printer 181,Office Supplies,Printer,8670.4,5624.95
+P0182,Fitness Equipment 182,Sports,Fitness Equipment,15590.28,12172.38
+P0183,Camera 183,Electronics,Camera,66902.29,49511.88
+P0184,Tablet 184,Electronics,Tablet,20719.38,13335.4
+P0185,Air Conditioner 185,Home Appliances,Air Conditioner,76508.26,54062.35
+P0186,Bed 186,Furniture,Bed,36288.91,28203.52
+P0187,Notebook 187,Office Supplies,Notebook,184.91,120.68
+P0188,Running Shoes 188,Sports,Running Shoes,5272.37,3130.49
+P0189,Air Conditioner 189,Home Appliances,Air Conditioner,38312.77,25713.12
+P0190,Football 190,Sports,Football,2296.71,1653.27
+P0191,Running Shoes 191,Sports,Running Shoes,8442.75,6441.23
+P0192,Smartphone 192,Electronics,Smartphone,20821.66,13717.57
+P0193,Chair 193,Furniture,Chair,8422.11,6102.6
+P0194,Microwave 194,Home Appliances,Microwave,13118.34,8489.04
+P0195,Fitness Equipment 195,Sports,Fitness Equipment,15240.21,11813.53
+P0196,Paper 196,Office Supplies,Paper,385.78,231.62
+P0197,Table 197,Furniture,Table,15133.72,11886.63
+P0198,Stationery Set 198,Office Supplies,Stationery Set,715.13,510.57
+P0199,Stationery Set 199,Office Supplies,Stationery Set,404.58,321.41
+P0200,Refrigerator 200,Home Appliances,Refrigerator,37954.59,28614.99
